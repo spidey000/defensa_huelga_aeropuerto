@@ -457,7 +457,8 @@ section {
 
 .argument-grid {
   display: flex !important;
-  flex-direction: row !important;
+  flex-direction: column !important;
+  /* Forces vertical stack (rows) */
   flex-wrap: nowrap !important;
   gap: var(--spacing-sm);
   margin-top: var(--spacing-md);
