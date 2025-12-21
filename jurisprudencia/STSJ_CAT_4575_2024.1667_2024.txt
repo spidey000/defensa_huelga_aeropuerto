@@ -1,0 +1,1186 @@
+JURISPRUDENCIA
+
+Roj: STSJ CAT 4575/2024 - ECLI:ES:TSJCAT:2024:4575
+Id Cendoj: 08019330042024100331
+Órgano: Tribunal Superior de Justicia. Sala de lo Contencioso
+Sede: Barcelona
+Sección: 4
+Fecha: 17/05/2024
+Nº de Recurso: 190/2024
+Nº de Resolución: 1667/2024
+Procedimiento: Recurso de apelación
+Ponente: JUAN ANTONIO TOSCANO ORTEGA
+Tipo de Resolución: Sentencia
+
+TRIBUNAL SUPERIOR DE JUSTICIA DE CATALUÑA.
+SALA DE LO CONTENCIOSO-ADMINISTRATIVO.
+SECCIÓN CUARTA.
+Recurso de apelación contra sentencia dictada en procedimiento especial para la protección de los derechos
+fundamentales de la persona. Recurso de Sala número 190/2023 (recurso de Sección número 46/2024).
+Parte apelante demandada: Institut Català de la Salut, representado por el Procurador Jordi Daura Ramon y
+defendido por el Letrado Roger Mir Sarrablo.
+Parte apelada actora: Tristán , representado por la Procuradora Carmen Muñoz Vences y defendido por la
+Letrada Mireia Montesinos i Sanchís.
+Ha intervenido el Ministerio Fiscal (Fiscal Juan F. Boné Pina).
+En aplicación de la normativa española y europea de Protección de Datos de Carácter Personal, y demás
+legislación aplicable, hágase saber que los datos de carácter personal contenidos en el procedimiento tienen
+la condición de conﬁdenciales, y está prohibida la transmisión o comunicación a terceros por cualquier
+medio, debiendo ser tratados única y exclusivamente a los efectos propios del proceso en que constan, bajo
+apercibimiento de responsabilidad civil y penal.
+Sentencia número 1667 de 2024.
+Ilustrísima/os Señora/es Magistrada/os:
+Presidente Pedro Luis García Muñoz.
+Andrés Maestre Salcedo.
+Juan Antonio Toscano Ortega.
+Laura Mestres Estruch.
+En la ciudad de Barcelona, a diecisiete de mayo de dos mil veinticuatro.
+
+1
+
+JURISPRUDENCIA
+La Sala de lo Contencioso-Administrativo, Sección Cuarta, del Tribunal Superior de Justicia de Cataluña,
+constituida para la resolución de este recurso de apelación contra sentencia dictada en procedimiento especial
+para la protección de los derechos fundamentales de la persona, ha pronunciado la presente sentencia en el
+recurso de Sala número 190/2024, registrado en la Sección con el número 46/2024, en que es parte apelante
+el demandado Institut Català de la Salut, representado por el Procurador Jordi Daura Ramon y defendido por
+el Letrado Roger Mir Sarrablo, siendo parte apelada el actor Tristán , representado por la Procuradora Carmen
+Muñoz Vences y defendido por la Letrada Mireia Montesinos i Sanchís. Ha intervenido el Ministerio Fiscal.
+Ha sido ponente Juan Antonio Toscano Ortega, Magistrado de esta Sala, que expresa el parecer de la misma.
+
+ANTECEDENTES DE HECHO.
+PRIMERO.-La sentencia apelada contiene el fallo del tenor literal siguiente: "ESTIMO el presente recurso
+contencioso-administrativo de protección de los derechos fundamentales instados por la letrada Dª. Mireia
+Montesinos Sanchis en defensa de D. Tristán contra el Institut Catala de la Salut siendo representado y
+defendido por sus servicios jurídicos y en consecuencia procede declarar la nulidad de la actuación realizada
+por la administración consistente en la imposición de las visitas relacionadas en el expediente administrativo
+al no haber quedado acreditado que se encontraran dentro de los servicios minimos acordados en la Orden,
+y que se cumplia con el porcentaje, y en consecuencia procede que la parte demandada indemnice a la parte
+recurrente en el importe de 7.501 euros en concepto de reparación del daño moral ocasionado". "Procede la
+condena en costas a la parte demandada hasta el límite de 300 euros.".
+SEGUNDO.-Contra dicha sentencia se interpone recurso de apelación por la parte demandada, siendo admitido
+por el Juzgado a quocon remisión de lo actuado a este Tribunal ad quemprevio emplazamiento de las partes
+procesales, personándose las partes apelante y apelada y el Fiscal en este órgano judicial en tiempo y forma.
+TERCERO.-Desarrollada la apelación, se señala día para deliberación y votación del fallo, lo que tiene lugar en
+la fecha ﬁjada.
+CUARTO.-En la sustanciación del procedimiento se han observado y cumplido las prescripciones legales.
+
+FUNDAMENTOS DE DERECHO.
+PRIMERO.- Objeto del recurso de apelación, pretensiones y motivos.
+1.- Sobre el objeto del recurso de apelación.
+Se impugna en la presente alzada por la parte demandada, Institut Català de la Salut, la sentencia número
+206/2023, de 4 de octubre, dictada por el Juzgado de lo Contencioso-Administrativo número 1 de Lleida
+y su provincia en su recurso contencioso-administrativo número 100/2023 seguido por los trámites del
+procedimiento especial para la protección de los derechos fundamentales de la persona entre Tristán y aquella
+demandada, habiendo intervenido el Ministerio Fiscal, resolución judicial en cuyo fallo se expresa:
+"ESTIMO el presente recurso contencioso-administrativo de protección de los derechos fundamentales
+instados por la letrada Dª. Mireia Montesinos Sanchis en defensa de D. Tristán contra el Institut Catala de
+la Salut siendo representado y defendido por sus servicios jurídicos y en consecuencia procede declarar la
+nulidad de la actuación realizada por la administración consistente en la imposición de las visitas relacionadas
+en el expediente administrativo al no haber quedado acreditado que se encontraran dentro de los servicios
+minimos acordados en la Orden, y que se cumplia con el porcentaje, y en consecuencia procede que la parte
+demandada indemnice a la parte recurrente en el importe de 7.501 euros en concepto de reparación del daño
+moral ocasionado.
+
+2
+
+JURISPRUDENCIA
+Procede la condena en costas a la parte demandada hasta el límite de 300 euros.".
+En el fundamento de derecho primero de la sentencia impugnada se identiﬁca el objeto del recurso y se
+exponen las pretensiones y los motivos de las partes y el Fiscal como sigue.
+"PRIMERO.- Pretensiones de las partes. En este juzgado se interpuso recurso contencioso contra la actuación
+de vía de hecho de obligar al actor a realizar la agenda programada a pesar de estar como servicios mínimos en
+el decurso de la huelga del día 25 de enero de 2023. Tras dar traslado a la parte demandada y al Ministerio Fiscal
+se contestó a la demanda, se dictó Auto admitiendo la prueba, presentándose posteriormente las conclusiones,
+y posteriormente se declaró el pleito concluso para el dictado de la sentencia.
+Por la parte recurrente se solicitó que se estimase el recurso presentado y que se declarase la vulneración
+del derecho a la huelga regulado en el artículo 28 CE, que se acuerde restablecerlo declarando nula o
+subsidiariamente anulable la decisión acordada por la vía de hecho de obligar a hacer, estando adscrito a
+servicios mínimos, la agenda normal y ordinaria que tenía asignada, y que se condene a la demandada a abonar
+al actor la cantidad de 7.501 euros en concepto de reparación de los daños y perjuicios morales provocados
+por dicha actuación.
+Por la administración demandada se opuso a lo solicitado de contrario, y en consecuencia solicitó la
+desestimación del recurso contencioso administrativo presentado.
+Por el Ministerio Fiscal se interesó en el escrito de contestación que "prima facie" aparecía lesión de derecho
+fundamental, y en las conclusiones sostuvo la existencia de lesión del derecho fundamental".
+En el fundamento de derecho segundo de la sentencia se entra a resolver la controversia, lo que pasa por la
+exposición de antecedentes y la aplicación al caso de los criterios contenidos en resoluciones judiciales sobre
+el derecho de huelga y las indemnizaciones procedentes, fundamento que se reproduce en su integridad.
+"SEGUNDO.- Caso concreto. En este juzgado se interpuso recurso contencioso contra la actuación de vía de
+hecho de obligar al actor a realizar la agenda programada a pesar de estar como servicios mínimos en el
+decurso de la huelga del día 25 de enero de 2023.
+En primer lugar, consta aportado el expediente administrativo y un documento de fecha 24 de marzo de 2023
+de la Unidad de Recursos Humanos, en el que se recoge que "En el expediente se adjuntan las convocatorias
+de huelga, el orden de establecimiento de servicios mínimos, el justiﬁcante de la designación del interesado
+como servicio mínimo la mañana del día 25 de enero de 2023 al ABS Borges Blanques, el comunicado del ABS
+Borges Blanques de quien había hecho huelga del día 25 de enero de 2023 y el detalle de la agenda de visitas
+del interesado de aquel día (donde se observan las visitas programadas, espontaneas y telefónicas). Respecto
+del documento 3 que se anexa a la demanda, se informa que entre la documentación de la demandada que ha
+recibido esta unidad, no está y por tanto, no lo podemos validar. Asimismo, queremos comentar que el mismo
+día 25 de enero, por la mañana, el interesado manifestó a la dirección del ABS Borges Blanques que no quería
+atender su agenda. La dirección llamó a la Unidad de Recursos Humanos y en una llamada con manos libres,
+que participó el señor Lucio por parte de esta Unidad, se informó al interesado que la designación de servicios
+mínimos no implicaba desprogramar su agenda, ya que esto atentaba contra el derecho de huelga y el sentido
+de la huelga. Se le informó que tenía que atender su agenda y las espontaneas como un día normal, y solo
+en caso que la dirección de la ABS, como órgano competente en la organización de la prestación del servicio,
+observara un alto volumen de espontaneas urgentes, podría autorizar la desprogramación de la agenda. Por
+tanto, se dio respuesta al requerimiento del interesado. El mismo interesado en su demanda maniﬁesta que
+"la alteración de las dinámicas de producción en los procesos de fabricación que sean o las de alteración del
+funcionamiento habitual en la prestación del servicio que se trate, son atentados al derecho fundamental de
+la huelga". Como se puede observar el detalle de las visitas realizadas aquel dia, el volumen de visitas es muy
+bajo."
+En segundo lugar, se recoge en el expediente administrativo la Orden EMT/2023 por la que se garantiza el
+servicio esencial en todos los centros y empresas sanitarias, sociosanitarias, residenciales y asistenciales
+tanto públicas como privadas de Cataluña, y en concreto se recoge el artículo 1 que la situación de huelga
+se entiende condicionada al mantenimiento de los servicios mínimos siguientes, entre los que se recogen
+las funciones de atención telefónica de todo tipo de urgencias y emergencias sanitarias, y en relación a la
+asistencia a los centros y establecimientos del ámbito del SISCAT se recoge el normal funcionamiento del
+
+3
+
+JURISPRUDENCIA
+servicio de urgencias, de las unidades especiales, de determinados tratamientos, de la actividad quirúrgica
+inajornable, la asistencia a las personas ingresadas, y en el punto 6 se recoge "En los centros de asistencia
+extrahospitalaria, se garantizara la asistencia urgente durante el horario habitual de cada centro. Este servicio
+se prestará con un 25% de la plantilla durante el primer día, todo y cuando se garantice con un dispositivo
+asistencial unipersonal se tendrá que considerar esta situación como mínimo y se prestara con la asistencia
+normal propia de los servicios especiales y ordinarios y otros dispositivos de atención continuada. A partir del
+segundo dia de huelga se aumentará un tercio de la plantilla".
+En tercer lugar, se aporta en la página 60 y 61 del expediente administrativo la agenda de visitas y el detalle
+de la agenda, constando un total de 19 usuarios en la hoja de trabajo ordinario del servicio de pediatría, y
+constando en el otro documento que de las 19 visitas, 10 fueron espontaneas, 4 programadas y 5 econsultas,
+y constando también 2 visitas más que no comparecieron.
+En cuarto lugar, se recoge en la sentencia STSJ, Castilla y León, Contencioso, sección 1, del 26 de junio de 2023
+( ROJ: STSJ CL 2780/2023 - ECLI:ES:TSJCL:2023:2780) Sentencia: 757/2023 Recurso: 959/2022 "TERCERO.Jurisprudencia sobre la motivación y proporcionalidad de los servicios mínimos en el ejercicio del derecho de
+huelga ( art. 28.2 CE ).
+III.1.- Doctrina del Tribunal Constitucional.
+Para examinar la controversia planteada en este proceso de derechos fundamentales, debemos partir de lo
+establecido en el art. 28.2 de la CE, precepto que reconoce " el derecho a la huelga de los trabajadores para
+la defensa de sus intereses. La ley que regule el ejercicio de este derecho establecerá las garantías precisas
+para asegurar el mantenimiento de los servicios esenciales de la comunidad".
+Según la jurisprudencia constitucional, " la principal técnica que viene utilizándose para garantizar el
+mantenimiento de los referidos servicios esenciales es la de la ﬁjación de los servicios mínimos a cumplir por
+los trabajadores", como expresa la STC 45/2016, de 14 de marzo (FJ 3), lo cual plantea, como en el caso objeto
+de análisis, entre otras, una controversia sobre las exigencias de motivación y proporcionalidad vinculadas al
+carácter restrictivo que tiene la determinación de los servicios mínimos para el ejercicio del derecho de huelga.
+La jurisprudencia constitucional sobre esta cuestión se resume en la STC 2/2022, de 24 de enero, en su FJ 3,
+en los siguientes términos:
+" a) La posibilidad establecida en el art. 28.2 CE de que se regulen las garantías precisas para asegurar en
+caso de huelga el mantenimiento de los servicios esenciales de la comunidad determina que el derecho
+huelga puede ser limitado cuando su ejercicio sea susceptible de impedir u obstaculizar el funcionamiento
+de servicios que atienden la garantía o el ejercicio de los derechos fundamentales, las libertades públicas y
+los bienes constitucionalmente protegidos. La consideración de un servicio como esencial no signiﬁca, sin
+embargo, la supresión del derecho de huelga de los trabajadores ocupados en tal servicio, sino la previsión
+de las garantías precisas para su mantenimiento, lo que implica la prestación de los trabajos necesarios para
+la cobertura mínima de los derechos, libertades o bienes que el propio servicio satisface, pero sin alcanzar el
+nivel de rendimiento habitual.
+b) La determinación de las garantías precisas para asegurar el mantenimiento de los servicios esenciales de
+la comunidad no puede ponerse en manos de ninguna de las partes implicadas en el conﬂicto colectivo que
+supone la huelga, sino que debe ser sometida a un tercero imparcial. Su atribución a la autoridad gubernativa
+es la manera más lógica de cumplir el mandato constitucional, si bien queda limitada por consideraciones
+materiales -las garantías establecidas no pueden vaciar de contenido el derecho de huelga o rebasar la idea de
+su contenido esencial- y formales -el control jurisdiccional de dichas decisiones sobre el mantenimiento de los
+servicios esenciales-, de todo lo cual se inﬁere que su establecimiento debe obedecer a un criterio restrictivo.
+c) La decisión de la autoridad gubernativa en la determinación de las garantías precisas para asegurar el
+mantenimiento de los servicios esenciales de la comunidad, en la medida en que implica una limitación en el
+libre ejercicio de un derecho fundamental, debe ser objeto de motivación tras una ponderación y valoración
+de los bienes o derechos afectados, del ámbito personal, funcional o territorial de la huelga, de la duración y
+demás características de esta medida de presión y, en ﬁn, de las restantes circunstancias que concurran en su
+ejercicio y que puedan ser de relevancia para alcanzar el equilibrio más ponderado entre el derecho de huelga
+y los restantes bienes afectados (comunidad afectada, existencia o no de servicios alternativos, etc.).
+
+4
+
+JURISPRUDENCIA
+d) La ﬁnalidad de esta exigencia de motivación es la de que los destinatarios conozcan las razones por las
+cuales su derecho se sacriﬁcó y los intereses a los que se sacriﬁcó y para que, en su momento, los órganos
+judiciales puedan ﬁscalizar adecuadamente la corrección constitucional del acto del poder público valorando
+su razonable ajuste a las circunstancias y la observancia de la regla de la proporcionalidad de los sacriﬁcios.
+e) La motivación del acto gubernativo en que se determinan las garantías precisas para asegurar el
+mantenimiento de los servicios esenciales de la comunidad puede responder a criterios de concisión y claridad
+propios de la actuación administrativa al poner de maniﬁesto el motivo o fundamento acerca de la esencialidad
+del servicio, las características de la huelga convocada, los bienes que pueden quedar afectados o los trabajos
+que no pueden sufrir interrupción o cuya prestación debe mantenerse en alguna medida. Sin embargo, el deber
+de motivación no puede entenderse cumplido con el simple uso de fórmulas genéricas de las cuales no puedan
+derivarse criterios para enjuiciar la ordenación y proporcionalidad de la restricción que se impone al ejercicio
+del derecho de huelga y el defecto de motivación no puede entenderse subsanado si en un proceso posterior
+la autoridad gubernativa aporta todos los datos técnicos o jurídicos posibles para apoyar su decisión".
+III.2.- Jurisprudencia del Tribunal Supremo. La Sentencia de la Sala 3ª (Sección 4ª) del Tribunal Supremo de 27
+de mayo de 2016 (RC 3068/2014; ECLI:ES:TS:2016:2422) resume la doctrina de dicho Tribunal en la materia
+de servicios mínimos del modo siguiente:
+" la doctrina constitucional y la jurisprudencia de este Tribunal es reiterada en punto a cuáles son las exigencias
+derivadas del derecho fundamental a la huelga, exigencias que se contraen - esencialmente y en lo que hace
+al caso- a dos: la proporcionalidad y la motivación, bien entendido que, como hemos señalado en ocasiones
+anteriores, "la validez de los servicios mínimos depende en último término de lo siguiente: que el contraste
+entre, de un lado, el sacriﬁcio que para el derecho de huelga signiﬁcan tales servicios mínimos y, de otro, los
+bienes o derechos que estos últimos intentan proteger, arroje como resultado que aquel sacriﬁcio sea algo
+inexcusable o necesario para la protección de esos otros bienes o derechos, o de menor gravedad que el
+quebranto que se produciría de no llevarse a cabo los servicios mínimos" ( sentencias de esta Sala de 8 de
+marzo de 2013, dictada en el recurso de casación núm. 3517/2011 y de 14 de diciembre de 2015, dictada en
+el recurso de casación núm. 989/2014 ). Es evidente que esa ponderación exige del órgano administrativo
+competente la correspondiente individualización y la inclusión en su decisión de un razonamiento suﬁciente
+sobre la necesidad del concreto porcentaje de servicios mínimos que ha de establecerse para garantizar la
+protección del correspondiente servicio esencial para la comunidad".
+Por su parte, la Sentencia de la Sala 3ª (Sección 4ª) del Tribunal Supremo
+de 28 de mayo de 2015 (RC 1148/2014; ECLI:ES:TS:2015:2375) expone la doctrina general sobre la exigencia
+de motivación de los servicios mínimos, en un caso referido a una huelga en el sector sanitario, razonando
+lo siguiente:
+" la doctrina de esta Sala sobre el signiﬁcado general de la "causalización" o motivación de los servicios
+mínimos (expresada, entre otras, en las sentencias de 11 de mayo de 2006, Recurso de Casación 2430/2003 ,
+19 de diciembre de 2007, Recurso de casación 7759/2004 , 8 de julio de 2009, Recurso de casación 5682/2006 ,
+21 de julio de 2010, Recurso de Casación 43172009 , y 19 de noviembre de 2013, Recurso de Casación
+2216/2013 ) ... viene declarando que se cubrirá satisfactoriamente el canon constitucionalmente exigible para
+la validez de dichos servicios mínimos cuando se cumpla con esta doble exigencia.
+En primer lugar, que sean identiﬁcados los intereses afectados por la huelga (el inherente al derecho de los
+huelguistas y el -o los- que puedan ostentar los afectados por el paro laboral). Y en segundo lugar, que se
+precisen también los factores de hecho y los criterios que han sido utilizados para llegar al concreto resultado
+plasmado en los servicios mínimos que hayan sido ﬁjados; esto es, cuáles son los hechos y los estudios
+concretos que se han tenido en cuenta para determinar las actividades empresariales que deben continuar
+durante la situación de huelga y el preciso número de trabajadores que dichas actividades requieren para
+que queden garantizados esos otros intereses o derechos, tan relevantes como el derecho de huelga , cuya
+atención pretende garantizarse a través de los servicios mínimos.
+La primera de esas exigencias impone señalar los intereses de los afectados por la huelga que, por encarnar un
+derecho fundamental o un interés de urgente atención constitucionalmente tutelado, o por estar así dispuesto
+en una norma, merecen ser considerados servicios esenciales.
+
+5
+
+JURISPRUDENCIA
+La segunda exigencia, relativa a la ponderación de los intereses en conﬂicto, se traduce en la debida
+observancia en dicho juicio del principio de proporcionalidad. Y esta Sala y Sección ha declarado (sentencia
+de 8 de octubre de 2004 - Recurso de casación 5908/2000 -, entre otras) que, con arreglo al criterio inherente a
+dicho principio, la validez de los servicios mínimos depende en último término de lo siguiente: que el contraste
+entre, de un lado, el sacriﬁcio que para el derecho de huelga signiﬁcan tales servicios mínimos y, de otro, los
+bienes o derechos que estos últimos intentan proteger, arroje como resultado que aquel sacriﬁcio sea algo
+inexcusable o necesario para la protección de esos otros bienes o derechos, o de menor gravedad que el
+quebranto que se produciría de no llevarse a cabo los servicios mínimos.
+Las sentencias de 15 de enero de 2007 (casación 7145/02 ) y 26 de marzo de 2007 (casación 1619/2007 ) han
+perﬁlado el alcance de estas exigencias de la motivación señalando lo siguiente: " ...no basta para satisfacer
+las exigencias constitucionales con manifestar ante quienes convocan una huelga qué servicios considera la
+Administración que han de ser garantizados y el personal llamado a prestarlos. La concreción que exige la
+jurisprudencia signiﬁca que han de exponerse los criterios en virtud de los cuales se ha llegado a identiﬁcar
+tales servicios como esenciales y a determinar quiénes han de asegurarlos a la luz de las circunstancias
+singulares de la convocatoria de que se trate. Son, precisamente, esos los datos relevantes para examinar si
+se ha observado la necesaria proporción entre el sacriﬁcio que comportan para el derecho de los trabajadores
+y los bienes o intereses que han de salvaguardar (...)".
+Doctrina esta última a la que alude también la Sentencia de la Sala 3ª (Sección 4ª) del Tribunal Supremo de
+17 de enero de 2018 (RC 16/2017; ECLI:ES:TS:2018:79), a propósito de la huelga de los controladores aéreos.
+Por lo demás, como recordaba la Sentencia de este Tribunal Superior de Justicia de Castilla y León,
+en su sede de Valladolid, Sección 1ª, de fecha 4 de noviembre de 2019 (nº de recurso 269/2019;
+ECLI:ES:TSJCL:2019:4300), " la jurisprudencia también ha concretado los criterios que han de presidir la
+adopción de los servicios mínimos al decir que en la adopción de las medidas que garanticen el mantenimiento
+de los servicios esenciales la autoridad gubernativa ha de ponderar la extensión territorial y personal, la
+duración prevista y las demás circunstancias concurrentes en la huelga, así como las concretas necesidades
+del servicio y la naturaleza de los derechos o bienes constitucionalmente protegidos sobre los que aquélla
+repercute [ STS, Sala 3ª, Sección 7ª, 8 de marzo de 2013 (recurso de casación núm. 3517/2011 ), 8 de abril de
+2013 (RC 3620/2011 ) - FD 4º-; 27 de diciembre de 2012 (RC 2912/2011 ) -FD 7º-]".
+Puede citarse también la Sentencia de la Sala 3ª (Sección 4ª) del Tribunal Supremo de 18 de enero de 2021 (RC
+3083/2019; ECLI:ES:TS:2021:533), que sintetiza la consolidada jurisprudencia sobre la cuestión controvertida,
+extrayendo, del cuerpo doctrinal examinado, las siguientes conclusiones:
+" 1º Que ante el ejercicio del derecho de huelga los servicios mínimos se predican de los esenciales
+identiﬁcados con prestaciones vitales o necesarias para la vida en comunidad; esencialidad que se deriva
+tanto de la actividad en que consisten como por el resultado que con la misma se pretende. Tal juicio sobre la
+esencialidad del servicio afectado no puede vaciar el contenido esencial del derecho a la huelga, haciéndolo
+impracticable, de ahí que deba seguirse un criterio restrictivo.
+2º Que junto a ese juicio sobre la esencialidad del servicio, la llamada "causalización" de la ﬁjación de los
+servicios mínimos exige razonar -motivar- el alcance de otros dos juicios concurrentes: el de proporcionalidad
+respecto de los acordados y el de ponderación respecto de los intereses en liza.
+3º Que en cuanto al equilibrio ponderado de los intereses en liza -el de los trabajadores y el de los destinatarios
+de su actividad- deberá valorarse el ámbito personal, territorial y temporal de la huelga más la actividad material
+afectada, identiﬁcando el número de trabajadores convocados y los adscritos a los servicios mínimos y cómo
+se ha llegado a tal ponderación.
+4º En cuanto al juicio de proporcionalidad, con los servicios mínimos que se ﬁjen no se trata de garantizar
+por sistema un nivel de rendimiento habitual de la actividad afectada, de ahí que unos servicios mínimos
+equivalentes al 100% de la actividad afectada implique vaciar de contenido el ejercicio del derecho de huelga;
+ahora bien, la huelga debe perturbar el interés de la comunidad sólo hasta extremos razonables, a lo que se
+añade que el acto de ﬁjación debe ser neutral e imparcial, luego no puede ser la empresa quien, en la práctica,
+los ﬁje". (...)
+"QUINTO.- Sobre la indemnización solicitada. Estimado el reproche en cuanto a la falta de motivación de los
+concretos servicios mínimos ﬁjados y su carácter abusivo (o desproporcionado), resta por examinar la cuestión
+
+6
+
+JURISPRUDENCIA
+relativa a la indemnización solicitada por la parte recurrente (6.000 euros), en resarcimiento de los daños
+morales sufridos como consecuencia de la vulneración del derecho fundamental de huelga.
+Sobre idéntica cuestión se pronunció la Sentencia de este Tribunal Superior de Justicia de Castilla y
+León, en su sede de Valladolid, Sección 1ª, de fecha 21 de diciembre de 2022 (n.º de recurso 958/2022;
+ECLI:ES:TSJCL:2022:5224). Transcribimos a continuación su Fundamento de Derecho Cuarto, en que se
+analiza la cuestión relativa a la indemnización interesada:
+" Sostiene la recurrente que la actuación de la Administración ha dañado seriamente la imagen del Comité de
+Empresa produciendo un daño moral resarcible al poner en entredicho la propia actuación del comité ante sus
+representados y ante la administración, trabajadores y sociedad en general, los cuales se ha publicitado una
+actuación sindical concreta sin que la misma haya tenido su refrendo, se ha privado de la eﬁcacia al ejercicio
+del derecho de huelga, y que concurre además reiteración en la actuación de la Administración que ya ha visto
+en ocasiones anteriores declarada la nulidad de resoluciones similares.
+La demandada se opone a la indemnización reclamada por no ofrecer el recurrente los parámetros que le
+sirven para reclamar la cantidad de 6.000 euros.
+En este sentido debemos reproducir lo declarado por la Sentencia del TS de 7 de julio de 2014 en la que se
+transcribe la de 12 de mayo del mismo año y en la que se sostiene lo siguiente "La doctrina de esta Sala tiene
+declarado, a título de ejemplo, en Sentencia de 12 de marzo de 2007 (casación 358/03 ), que:
+"El resarcimiento de los perjuicios morales sufridos como consecuencia de la vulneración de un derecho
+fundamental es una posibilidad contemplada por el ordenamiento jurídico. Entre otros preceptos, en particular,
+por el citado artículo 15 de la Ley Orgánica 11/1985 que se reﬁere a la reparación de las consecuencias ilícitas
+de la lesión del derecho a la libertad sindical en la interpretación que ha recibido por parte de la jurisprudencia.
+De ello son muestra la Sentencia invocada de la Sala Cuarta y, también, recientemente, entre otras, la Sentencia
+del Tribunal Constitucional 247/2006, de 24 de julio.
+Es verdad que, en este caso, nos hallamos ante un derecho fundamental diferente y que no hay una norma
+legal que prevea compensaciones a propósito del derecho a la huelga en los términos en que lo hace el artículo
+15 de la Ley Orgánica 11/1985. No obstante, estos no son obstáculos que impidan seguir el mismo criterio
+siempre que estemos ante consecuencias ilícitas de la vulneración de un derecho fundamental que, no hay que
+olvidarlo, no ha sido objeto de desarrollo legislativo y que guarda una estrecha relación con la libertad sindical.
+Por tanto, en principio, una pretensión de resarcimiento por perjuicios morales por infracción del derecho a
+la huelga es algo que cabe considerar ajustado al ordenamiento jurídico. Y puede merecer la caliﬁcación de
+consecuencia ilícita de la misma el menoscabo de la capacidad de presión de la huelga sobre el empresario
+que deriva de unos servicios mínimos declarados nulos".
+Recuerda la sentencia recurrida la del Tribunal Supremo (Sala Social) de 12 de diciembre de 2007 que señala
+lo siguiente: " El recurrente solicita una indemnización, que ﬁja en 3000 euros, por los daños morales que
+le ha originado la vulneración de los derechos de huelga y libertad sindical, cometida por la demandada. La
+lesión de un derecho fundamental determina normalmente la producción de un daño en la medida en que esa
+lesión se proyecta lógicamente sobre un bien ajeno. De ahí que el artículo 180 de la Ley de Procedimiento
+Laboral, al regular el contenido en la sentencia estimatoria de la demanda de tutela de un derecho fundamental,
+establezca que, previa declaración de nulidad radical de la conducta lesiva, se ordenará el cese inmediato
+de comportamiento antisindical, la reposición de la situación al momento anterior a producirse la lesión "la
+reparación de las consecuencias derivadas del acto, incluida la indemnización que procediera". En el caso
+concreto de la lesión del derecho a la libertad sindical, como consecuencia de una lesión más directa al
+derecho de huelga en la vertiente que afecta al sindicato convocante, los daños pueden ser tanto económicos,
+como morales. Puede haber un daño económico en la medida que la lesión ha podido actuar determinando el
+fracaso de la huelga o provocando una diﬁcultad añadida a ésta con las consecuencias que de ello podrían
+derivarse para la esfera patrimonial del sindicato. Pero la parte no pide la reparación de daños patrimoniales,
+sino que, como se ha dicho, se limita a solicitar una indemnización de los morales. Daño moral es aquel que
+está representado por el impacto o sufrimiento psíquico o espiritual que en la persona pueden desencadenar
+ciertas conductas, actividades o, incluso, resultados, tanto si implican una agresión directa a bienes materiales,
+como al acervo extrapatrimonial de la personalidad ( STS, Sala I, 25-6-1984); daño moral es así el infringido a la
+dignidad, a la estima moral y cabe en las personas jurídicas ( STS, Sala I, 20-2-2002), habiéndose referido ya a
+las lesiones al prestigio mercantil de una persona jurídica la sentencia de dicha Sala de 31 de marzo de 1930)".
+
+7
+
+JURISPRUDENCIA
+La sentencia recurrida, con cita de las sentencias de la Sala de lo Social del Tribunal Superior de Madrid de 2
+de marzo de 2011 , de 18 de julio de 2007 y de la sentencia de la Sala de lo Contencioso- administrativo del
+Tribunal Superior de Justicia de Valencia de 21 de febrero de 2011 ,que admiten la indemnización del daño
+moral causado al sindicato recurrente como consecuencia de la ﬁjación de servicios mínimos abusivos, admite
+sin embargo que "Es cierto que tanto en la sentencia del Tribunal Supremo de 11 de octubre de 2012 (Sala 3 ª),
+como en la de 12 de diciembre de 2007 (Sala Social ), antes citadas, se establece, en pasajes posteriores a los
+que se han transcrito, que los daños no son reconocibles automáticamente, reprochándose en la primera de
+ellas que la demanda " no contiene indicación alguna al respecto, no describe ni enuncia siquiera los conceptos
+o partidas cuya reparación se pretende a través de la genérica indemnización que solicita, lo que impide el
+debate contradictorio sobre la existencia y entidad de perjuicios y sobre la cuantiﬁcación de la indemnización
+adecuada para su reparación...no es posible en este caso dar lugar a la pretensión indemnizatoria que se
+postula por la recurrente, por no haber quedado debidamente especiﬁcados los concretos perjuicios sufridos,
+ni los criterios seguidos para la valoración de la cantidad que se reclama ". Ahora bien, ello será cuestión
+de examen caso por caso y en ningún supuesto de denegación automática, como deriva de la sentencia del
+Tribunal Constitucional 247/2006 , que exige el debido análisis y motivación de la denegación, en su caso, de
+este concepto. De la misma manera, la sentencia del Tribunal Supremo de 3 de marzo de 2008 señala que "
+Ateniéndonos al motivo de casación formulado por el recurrente, que es el objeto de nuestro pronunciamiento,
+debemos decir que no contiene una verdadera argumentación dirigida a rebatir la fundamentación de la
+Sentencia en este punto. Es decir, no ofrece razones concretas válidas por las que deba rechazarse. Así, al
+margen ya de la cuestión de la antijuridicidad, nada dice para rechazar la existencia de daño, ni sobre lo alegado
+por ASES, ni sobre la trascendencia moral de la lesión del derecho a la huelga, ni sobre el vaciamiento de la
+tutela judicial efectiva en caso de no resarcir que apunta la Sentencia ".
+Sin embargo, la sentencia recurrida, sostiene que es procedente que la Sala "avance un paso más,
+determinando si la frustración del derecho constitucional de huelga supone para el sindicato un derecho a
+la indemnización", teniendo en cuanta que "no se trata sólo de falta de motivación de los servicios mínimos,
+sino que los establecidos, para los centros de mayores, son claramente excesivos y vaciadores del derecho de
+huelga; por otro lado, estamos ante un caso en el que la reparación del derecho "in natura" resulta imposible,
+de modo que según las reglas ordinarias procede su sustitución dineraria ( art. 105.2 Ley de la Jurisdicción
+Contenciosoadministrativa : " Si concurriesen causas de imposibilidad material ...de ejecutar una sentencia...el
+Juez o Tribunal aprecie la concurrencia o no de dichas causas y adopte las medidas necesarias que aseguren
+la mayor efectividad de la ejecutoria, ﬁjando en su caso la indemnización que proceda por la parte en que no
+pueda ser objeto de cumplimiento pleno "; art. 710.2 LEC : " Si...tampoco fuera posible deshacer lo mal hecho,
+la ejecución procederá para resarcir al ejecutante por los daños y perjuicios que se le hayan causado ").
+Reconocido el derecho al restablecimiento de los daños morales, es evidente que acerca de los mismos ha
+de existir un margen de apreciación del Juzgador en primera instancia que los ha de motivar razonablemente,
+pero dado su carácter, no puede exigirse una prueba plena de su alcance y entidad, pues no estamos ante un
+daño emergente o lucro cesante, fácilmente mensurable, sino ante un daño moral.
+Como sostiene la sentencia de esta Sala de fecha dos de octubre de 2012(rec. Cas. 3925/2011 )" Lo que a su
+vez especiﬁcamos en la Sentencia de 23-3-2.011 (recurso 2.302/2009 ) al aﬁrmar que: "Sobre esta cuestión
+es jurisprudencia harto conocida de esta Sala la relativa a la diﬁcultad inherente a la indemnización del daño
+moral, por todas la sentencia de 6 de julio de 2.010, recurso de casación número 592/2.006 y que expresa
+que "a cuyo efecto ha de tenerse en cuenta que el resarcimiento del daño moral por su carácter afectivo y de
+pretium doloris, carece de módulos objetivos, lo que conduce a valorarlo en una cifra razonable, que como
+señala la jurisprudencia, siempre tendrá un cierto componente subjetivo (S.S. del T.S. de 20 de julio de 1.996,
+26 de abril y 5 de julio de 1.997 y 20 de enero de 1.998, citadas por la de 18 de octubre de 2.000), debiendo
+ponderarse todas las circunstancias concurrentes en el caso". O, en la de 12 de noviembre de 2.010 ( recurso
+5.803/2.008) que mantuvo que: "esa patente infracción produce a quien lo padece un daño moral reparable
+económicamente ante la privación de su capacidad para decidir, que sin razón alguna le fue sustraída, así
+Sentencias de 20 y 25 de abril , 9 de mayo y 20 de septiembre de 2.005 y 30 de junio de 2.006 . Es igualmente
+cierto que esa reparación dada la subjetividad que acompaña siempre a ese daño moral es de difícil valoración
+por el Tribunal, que debe ponderar la cuantía a ﬁjar de un modo estimativo".
+Y es claro que en este caso así sucedió. No en vano la Sala de instancia acordó indemnizar la inexistencia
+del consentimiento por escrito porque de ese modo se privó al paciente del conocimiento suﬁciente de la
+intervención que iba a soportar y de los beneﬁcios que de ella derivarían, pero también de las consecuencias
+que la misma podría producir en forma de complicaciones posibles, aun realizándose las intervenciones
+
+8
+
+JURISPRUDENCIA
+conforme a la lex artis. Y efectivamente las mismas se produjeron ignorando el paciente el alcance que podrían
+suponer para su posterior estado de salud".
+Por ello, la falta del derecho a la información del paciente constituye en todo caso una mala praxis ad hoc,
+pero que no da lugar a responsabilidad patrimonial y a la consiguiente indemnización si del acto médico no
+se deriva daño alguno para el recurrente. Pero en el bien entendido que el deber de indemnizar el daño moral
+que comporta la falta de consentimiento informado en ningún caso puede ser confundido ni asimilado con la
+indemnización de los perjuicios derivados del acto quirúrgico, como pretende el recurso en los motivos que
+por ello desestimamos".
+Por ello, habiendo razonado la sentencia la falta de diligencia de la Administración al ﬁjar los servicios mínimos,
+y la existencia de un desprestigio consecuente para el Sindicato recurrente, que se ve obligado a soportar la
+existencia de estos servicios que la Sala de Instancia considera abusivos, dicho daño moral ha de ser resarcido,
+y la Sala reduce prudencialmente la indemnización solicitada por este concepto a 1000 euros, teniendo en
+cuenta la entidad de la violación del derecho fundamental denunciado, por lo que actúa conforme a derecho
+y el motivo segundo ha de ser desestimado.
+Y aplicando la anterior doctrina al supuesto presente en el que los servicios mínimos han sido anulados no
+solo por falta de motivación sino
+también por su desproporcionalidad, con su consiguiente incidencia en la repercusión de la huelga, y valorando
+que ya en ocasiones anteriores han sido anulados por esta Sala la ﬁjación de servicios mínimos por los
+mismos motivos y en el mismo servicio ( Sentencia de 4 de noviembre de 2019, dictada en el procedimiento de
+Protección de Derechos Fundamentales nº 269/2019 y sentencia de 21 de enero de 2019 del Procedimiento
+nº 343/2018 ) estimamos que procede reconocer una indemnización que prudencialmente ﬁjamos en 2.000
+euros a favor de la recurrente y en concepto de daño moral.".
+En aplicación de la doctrina expuesta al caso concreto, y por evidentes razones de seguridad jurídica e igualdad
+en la aplicación de la ley, y al no encontrar motivos que justiﬁquen una decisión distinta, procede dar la misma
+respuesta en cuanto al reconocimiento de la indemnización solicitada, que prudencialmente ﬁjamos aquí
+también en 2.000 euros a favor de la recurrente y en concepto de daño moral. También coadyuva a aminorar
+la cuantía solicitada el que como argumento para que accedamos a ella se haya hecho referencia a la función
+preventiva que tendría una eventual condena, de manera que ha sido la propia actora quien ha incluido (o al
+menos así se desprende de su razonamiento) dentro la suma total peticionada de 6.000 euros una suerte de
+daños punitivos o sancionatorios (" punitive damages", característicos del sistema anglosajón), que tienen
+difícil encaje en el ordenamiento jurídico español. Por todo lo expuesto, el recurso debe ser sustancialmente
+estimado."
+También se recoge en la sentencia STSJ, Madrid, Contencioso, sección 8, del 06 de marzo de 2023 ( ROJ:
+STSJ M 3385/2023 - ECLI:ES:TSJM:2023:3385), Sentencia: 276/2023, Recurso: 859/2022 "Así, por ejemplo,
+en nuestra Sentencia de 15 de marzo de 2018 (DFU 541/2017), dictada en procedimiento especial de igual
+naturaleza que éste, y luego reiterada en la más reciente de 22 de mayo de 2020, dijimos lo siguiente:
+(...) Establecido lo anterior, al estar en presencia de un servicio esencial, resulta de aplicación lo dispuesto en el
+artículo 10.2 del Real Decreto-Ley 17/1977, de 4 de marzo, sobre Relaciones de Trabajo , a cuyo tenor "Cuando
+la huelga se declare en empresas encargadas de la prestación de cualquier género de servicios públicos o de
+reconocida e inaplazable necesidad y concurran circunstancias de especial gravedad, la autoridad gubernativa
+podrá acordar las medidas necesarias para asegurar el funcionamiento de los servicios. El Gobierno, asimismo,
+podrá adoptar a tales ﬁnes las medidas de intervención adecuadas".
+La constitucionalidad del precepto que se acaba de citar fue examinada por el Tribunal Constitucional en su
+STC nº 11/1981, de 11 de abril , que decidía así en relación con ello: "... no es inconstitucional el párrafo 2° del
+art. 10 que atribuye a la autoridad gubernativa la potestad de dictar las medidas necesarias para determinar
+el mantenimiento de los servicios esenciales a la Comunidad, en cuanto que el ejercicio de esa potestad está
+sometido a la jurisdicción de los Tribunales de Justicia y al recurso de amparo ante este Tribunal".
+Ya en ocasiones anteriores, y en contemplación de la doctrina sentada por el Tribunal Constitucional, esta Sala
+ha tenido ocasión de pronunciarse respecto a los perﬁles de la potestad administrativa relativa a la ﬁjación de
+los servicios mínimos en el caso de huelga que afecta a los servicios esenciales. Y al igual que en aquellas otras
+sentencias, podemos ahora recordar dicha doctrina constitucional sintetizada, sobre la base de lo resuelto por
+
+9
+
+JURISPRUDENCIA
+el Tribunal Constitucional, entre otras, en sus SSTC núm. 11/1981 , 26/1981 , 51/1986 y 27/1989 , en la STC
+núm. 43/1990, de 15 de marzo , que se pronuncia en los siguientes términos:
+"a) Los límites del derecho de huelga no son sólo los derivados directamente de su acomodación con
+el ejercicio de otros derechos reconocidos y declarados igualmente por la Constitución, sino que también
+pueden consistir en otros bienes constitucionalmente protegidos. Los límites del derecho de huelga derivan,
+pues, no sólo de su posible conexión con otros derechos constitucionales, sino también con otros bienes
+constitucionalmente tutelados ( STC 11/1981 , FFJJ 7.º y 9.º)
+b) El art. 28.2 CE, al hacer referencia a las garantías precisas para asegurar en caso de huelga el mantenimiento
+de los servicios esenciales para la comunidad, tiene el signiﬁcado de expresar que el derecho de los
+trabajadores de defender y promover sus intereses mediante dicho instrumento de presión cede cuando con
+ello se ocasiona o se pueda ocasionar un mal más grave que el que los huelguistas sufren. En la medida
+en que la destinataria y acreedora de aquellos servicios esenciales es la comunidad entera y los servicios
+son al mismo tiempo esenciales para ella. La huelga no puede imponer el sacriﬁcio de los intereses de los
+destinatarios de los mismos; "el derecho de la comunidad a estas prestaciones vitales es prioritario respecto
+del derecho de huelga" ( STC 11/1981 , F.J. 18).
+c) Antes que a determinadas actividades industriales y mercantiles de las que derivarían prestaciones vitales
+y necesarias para la vida de la comunidad, la noción de servicios esenciales hace referencia a la naturaleza de
+los intereses a cuya satisfacción la prestación se endereza, conectándose con los derechos fundamentales,
+las libertades públicas y los bienes constitucionalmente protegidos. Esta última óptica, que pone el acento en
+los bienes e intereses de la persona, y no la primera, que se mantiene en la superﬁcie de la necesidad de las
+organizaciones dedicadas a llevar a cabo las actividades, es la que mejor concuerda con los principios que
+inspira nuestra Constitución ( STC 26/1981, F.J. 10). Con la consecuencia de que, a priori, no existe ningún tipo
+de actividad productiva que, en sí misma, pueda ser considerada como esencial ( STC 51/1986, F.J. 2º). Sólo
+lo será en aquellos casos en que la satisfacción de los mencionados bienes e intereses exija el mantenimiento
+del servicio, y en la medida y con la intensidad en que lo exija, puesto que los servicios esenciales no quedan
+lesionados o puestos en peligro por cualquier situación de huelga, siendo necesario examinar en cada caso
+las circunstancias concurrentes en la misma ( SSTC 26/1981, F.J. 10 ; 51/1986 , F.J. 2º).
+d) En la adopción de las medidas que garanticen el mantenimiento de los servicios esenciales la autoridad
+gubernativa ha de ponderar la extensión - territorial y personal-, duración prevista y demás circunstancias
+concurrentes en la huelga, así como las concretas necesidades del servicio y la naturaleza de los derechos o
+bienes constitucionalmente protegidos sobre los que aquélla repercute ( SSTC 26/1981, FFJJ 10 y 15; 53/1986 ,
+F.J. 3.º).
+e) En las huelgas que se produzcan en servicios esenciales de la comunidad debe existir "una razonable
+proporción" entre los sacriﬁcios que se impongan a los huelguistas y los que padezcan los usuarios de aquéllos
+( STC 26/1981, F.J. 15). Si es cierto que las medidas han de encaminarse a "garantizar mínimos indispensables"
+para el mantenimiento de los servicios ( STC 33/1981, F.J. 4.º), en tanto que dicho mantenimiento no puede
+signiﬁcar en principio el funcionamiento normal del servicio ( SSTC 51/1986, F.J. 5 .º; 53/1986 , F.J. 3.º), el
+interés de la comunidad debe ser perturbado por la huelga sólo hasta extremos razonables ( STC 51/1986 , F.J.
+5.º). Y si la huelga ha de mantener una capacidad de presión suﬁciente como para lograr sus objetivos frente
+a la Empresa, en principio destinataria del conﬂicto, no debe serle añadida a la misma "la presión adicional
+del daño innecesario que sufre la propia comunidad" ( STC 51/1986 , F.J. 5."), aumentando así a la que se
+ejerce sobre el empresario la que se realiza sobré los usuarios de las prestaciones de servicios públicos ( STC
+11/1981 , F.J. 18).
+f) Finalmente, por lo que hace a la motivación y fundamentación de la decisión de imponer el mantenimiento
+de los servicios esenciales para la comunidad, este Tribunal ha establecido reiteradamente que el acto por
+el cual se determina dicho mantenimiento ha de estar adecuadamente motivado y que, cuando se produce
+una restricción de derechos fundamentales constitucionalmente garantizados, "la autoridad que realiza el acto
+debe estar en todo momento en condiciones de ofrecer la justiﬁcación" ( STC 26/1981 , F.J. 16). En orden a
+la limitación de un derecho fundamental, el acto limitativo requiere una especial justiﬁcación con objeto de
+que "los destinatarios conozcan las razones por las cuales su derecho se sacriﬁcó y los intereses a los que
+se sacriﬁcó" ( STC 26/1981 , F.J. 14) y de que, en su caso, puedan defenderse ante los órganos judiciales
+( STC 27/1989 , F.J. 4.º). Recae, pues, sobre la autoridad gubernativa la obligación de motivar las razones que
+justiﬁcan, en una concreta situación de huelga la adopción de la decisión de mantener el funcionamiento de
+un servicio esencial para la comunidad. Correspondiéndole también probar a ella que los actos de restricción
+
+10
+
+JURISPRUDENCIA
+del derecho tienen plena justiﬁcación, no siendo de aplicación aquí las reglas generales sobre distribución de
+la carga de la prueba (ibídem). Quiere ello decir que la motivación de la decisión de la autoridad gubernativa
+requiere que en la misma ﬁguren "los factores o criterios cuya ponderación ha conducido a determinar cuáles
+son los servicios mínimos", sin que sean suﬁcientes "indicaciones genéricas, aplicables a cualquier conﬂicto",
+de las que no es posible deducir cuáles son los elementos valorados por aquella autoridad para "tomar la
+decisión restrictiva en la forma y con el alcance con que lo ha hecho; cómo se ha llegado a la determinación
+de los servicios mínimos acordados, y a la valoración de su carácter esencial"; en deﬁnitiva han de explicitarse,
+siquiera sea sucintamente, "los criterios seguidos para ﬁjar el nivel de tales servicios, de forma que por los
+Tribunales, en su caso, y en su momento, se pueda ﬁscalizar la adecuación de las medidas adoptadas" ( STC
+53/1986 , FFJJ 6.º y 7.º; también STC 26/1981 , FFJJ 14 y 15; STC 51/1986 , F.J. 4.º; STC 27/1989 , FFJJ 4.º y
+5.º). Si ha de diferenciarse entre la motivación expresa del acto, "que puede responder a criterios de concisión y
+claridad propios de la actuación administrativa", y las razones que en un eventual y posterior proceso se pueden
+alegar para justiﬁcar la decisión tomada, ello no implica que la justiﬁcación ex post libere de la obligación
+de motivar el acto desde que éste se realiza ( STC 53/1986 , F.J. 6.º), pues la falta de motivación impide,
+precisamente, la justa valoración y el control material o de fondo de la medida ( STC 27/1989 , F.J. 5.º). En
+deﬁnitiva, la decisión de la autoridad gubernativa ha de ofrecer o poner de maniﬁesto motivo o fundamento
+acerca de la esencialidad del servicio, las características de la huelga convocada, los bienes que pueden
+quedar afectados o los trabajos que no pueden sufrir interrupción o cuya prestación debe mantenerse en
+alguna medida ( STC 27/1989 , F.J. 4.º), sin que sean suﬁcientes indicaciones genéricas, que puedan predicarse
+de cualquier conﬂicto, en cualquier actividad, y de las cuales no puedan derivarse criterios para enjuiciar la
+ordenación y proporcionalidad de la restricción que al ejercicio del derecho de huelga se impone ( SSTC
+51/1986, F.J. 4 .º; 53/1986 , F.J. 6.º)".
+Pues bien, más arriba ya dejamos expuesto el contenido de la Orden recurrida por lo que ahora nos limitaremos
+a recordar que la misma diferenciaba dos tipos de servicios mínimos dependiendo de si la huelga afecta
+a la jornada ordinaria de trabajo (ﬁjándose aquéllos en un 50% del personal facultativo que, conforme a
+la planiﬁcación establecida, tenga la obligación de prestar servicios cada uno de los días de huelga) pero
+haciendo una especial previsión en su prestación (100%) para dicho personal cuando preste servicios en las
+Unidades que se consideran críticas y urgentes, caliﬁcándose así, entre ellas y por las razones que se exponen
+en cada caso, a las de "Diálisis, Urgencias, Reanimación, Cuidados Críticos; hospitalización, quirófanos,
+hospital de día de oncología y SIDA, Farmacia, extracción y trasplante de órganos, laboratorio, radioterapia,
+hemodinámica, etc.
+Junto a las causas por las que se seleccionan, para ﬁjar un 100% de los servicios mínimos en estas Unidades y
+en el resto de las mencionadas en la Orden recurrida, además de las razones expuestas para cada uno de ellos,
+podemos observar cómo en el apartado IV de la propia disposición se recoge lo siguiente, que complementa,
+la motivación particularizada ya reseñada: "... teniendo en cuenta que en la ﬁjación de servicios mínimos debe
+existir una proporcionalidad y equilibrio entre, por una parte, la protección del interés de la comunidad y la de
+los usuarios del servicio que con dichos mínimos se pretende salvaguardar y, por otra, la del derecho de los
+trabajadores a ejercitar el derecho constitucional de huelga, en la ﬁjación de los presentes servicios mínimos se
+ha tenido en cuenta la extensión territorial, la extensión personal y la duración prevista, así como la necesidad
+de garantizar la atención sanitaria de la población, toda vez que la ausencia, interrupción o discontinuidad en
+la prestación de este servicio esencial para la Comunidad, podría repercutir gravemente en el estado de salud
+de los ciudadanos y afectar gravemente a la prestación del servicio de asistencia sanitaria que se realiza en
+los mismos.
+En la ﬁjación de los servicios mínimos en la huelga convocada por la organización sindical AMYTS, se ha tenido
+en cuenta el carácter indeﬁnido de la misma, y la situación de crisis sanitaria ocasionada por el COVID-19.
+En los Centros Hospitalarios se establecen unos servicios mínimos del 50 % del personal facultativo que tenga
+que prestar servicios en los días de huelga; no obstante, a ﬁn de garantizar la plena asistencia sanitaria a
+pacientes afectados por COVID-19 y otras patologías graves o muy graves, se establecen en ciertas unidades
+críticas o urgentes el 100% de los servicios mínimos, a ﬁn de garantizar la asistencia sanitaria a pacientes
+afectados por determinadas patologías críticas o especialmente graves, e incluso de riesgo vital, que de no
+realizarse podría afectar negativamente a la vida de las personas".
+En consideración de todo lo hasta aquí expuesto, la Sala valora la motivación dada por la Administración
+demandada en la Orden recurrida, diferenciando dos porcentajes de servicios mínimos a cumplir por la
+organización convocante, según se trate de jornadas ordinarias o complementarias de trabajo, dependiendo
+de la naturaleza, urgente e inaplazable, de los servicios prestados por las Unidades incluidas entre los mínimos
+
+11
+
+JURISPRUDENCIA
+a prestar, existiendo una justiﬁcación que, desde la perspectiva del canon constitucional exigible, resulta
+suﬁcientemente expresiva y armonizadora, al tiempo, de los intereses perseguidos con el ejercicio del derecho
+de huelga y con las exigencias legales y jurisprudenciales sentadas para que dicho ejercicio sea recto y cabal.
+Finalmente, el examen de la Orden impugnada desde la perspectiva de la proporcionalidad, conduce al rechazo
+de motivo en que la actora mantuvo el desajuste con dicho principio de los servicios mínimos ﬁjados.
+Vinculada la proporcionalidad a la motivación ya examinada, la Sala entiende que la ﬁjación de los porcentajes
+concretos de los que aquí se trata resultan ajustada a aquel principio ya que se garantiza con ellos la prestación
+de los servicios esenciales que no admiten dilación sin compromiso grave para la vida y/o la salud de los
+usuarios si se hubieran ﬁjado en un porcentaje inferior, llegando con ello a difuminar, si no eliminar, su carácter
+esencial.
+En consecuencia, por lo hasta aquí expuesto y razonado, procede desestimar el presente recurso."
+Por último se recoge en la sentencia STSJ, Valencia, Social, sección 1, del 17 de enero de 2018 ( ROJ: STSJ CV
+315/2018 - ECLI:ES:TSJCV:2018:315), Sentencia: 123/2018 Recurso: 3537/2017, Pero, como decimos, esta
+no es la cuestión que está en la base de este procedimiento, en el que hay una huelga convocada por los
+trabajadores -por tanto no se trata de causas que les sean ajenas- y una resolución de la autoridad laboral
+ﬁjando unos servicios mínimos. En efecto, ante la convocatoria de huelga y dado que esta afectaba a la
+empresa adjudicataria del servicio de transporte urbano de la ciudad de Alicante, la Consellería de Economía
+Sostenible de la Generalitat Valenciana ﬁjó unos servicios mínimos del 30% -porcentaje que estaba previsto que
+se incrementara en determinadas fechas-. En cumplimiento de esta resolución, la empresa estableció el horario
+en el que se debía prestar el servicio nocturno de transporte entre las 23:30 horas y las 2:15 horas y procedió a
+descontar el 70% de las retribuciones a los trabajadores que secundando la huelga realizaron esa jornada de
+trabajo. 2. Siendo estos los hechos hemos de concluir, con la sentencia recurrida, que la actuación empresarial
+no merece ningún reproche jurídico. Por un lado, no cabe duda que la empresa tiene una amplia libertad para
+organizar como tenga por conveniente su actividad empresarial, siempre dentro de la legalidad y del respeto de
+los derechos de los trabajadores y, en particular, del derecho fundamental a la huelga (ex art. 28 CE). Por tanto,
+entre las diversas fórmulas posibles que tenía para aplicar la resolución de servicios mínimos, eligió la que a su
+entender producía un perjuicio menor a los usuarios ﬁjando el horario del transporte entre las 23:30 horas y las
+2:15 horas. Y, por otro lado, es evidente que esos servicios mínimos solo estaban ﬁjados para los trabajadores
+que quisieran secundar la huelga, de modo que quienes no lo hicieran podían seguir prestando el trabajo en
+el horario normal entre las 23:00 horas y las 7:15 horas. Lo que carece de cobertura legal es la pretensión del
+comité de empresa de imponer a la empresa una forma de organizar su actividad por el mero hecho de que
+sea más beneﬁciosa para sus intereses, cuando aquella ha actuado dentro de sus facultades organizativas y
+respetando el derecho de huelga. 3. A partir de estas consideraciones, parece razonable que si en virtud del
+decreto de servicios mínimos la jornada de trabajo se redujo al 30%, la retribución de los trabajadores que
+realizaron esa jornada debía sufrir la misma reducción proporcional. Por lo que procede desestimar el recurso y
+conﬁrmar el pronunciamiento de la resolución recurrida".
+En conclusión, atendiendo a todo lo expuesto, no siendo objeto del presente recurso la Orden EMT/2023 por la
+que se garantiza el servicio esencial en todos los centros y empresas sanitarias, socio sanitarias, residenciales
+y asistenciales tanto públicas como privadas de Cataluña, sino que siendo objeto del presente procedimiento
+dilucidar si existió una vía de hecho por parte de la administración en la actuación consistente en imponer al
+recurrente la realización de la agenda ordinaria estando de servicios mínimos, y habiendo manifestado que
+ejercía su derecho a la huelga, se deduce de la jurisprudencia anterior y de la documental aportada, que la
+realización por parte del recurrente el día 25 de enero de 2023 de las 19 visitas de la hoja de trabajo diario
+vulneró su derecho a la huelga, al observarse que el recurrente tuvo que realizar el mismo trabajo que cualquier
+otro día, al realizar tanto las visitas espontaneas o econsultas, como las visitas programadas, no habiendo
+quedado acreditado por parte de la administración, que es a quien le correspondía la carga de la prueba,
+que dichas visitas se encontraban dentro de los servicios mínimos acordados en la Orden y que se cumplía
+con el correspondiente porcentaje, al no haber practicado prueba en dicho sentido, por lo que, se deduce de
+lo expuesto, que no concurre la proporcionalidad entre el ejercicio del derecho de huelga y el cumplimiento
+de unos servicios mínimos que conllevaron en este supuesto a la realización por parte del recurrente de la
+totalidad de la agenda ordinaria.
+
+12
+
+JURISPRUDENCIA
+Por último, y habiéndose constatado la vulneración de un derecho fundamental, procede pronunciarse sobre
+la cuantía de la indemnización
+solicitada, y en concreto sobre el importe solicitado de 7.501 euros.
+Se recoge en la STS, Social, sección 1, del 19 de diciembre de 2017 ( ROJ: STS 4806/2017 ECLI:ES:TS:2017:4806), Sentencia: 1025/2017, Recurso: 624/2016 "TERCERO.- 1.- El examen de la cuestión de
+fondo nos lleva a conﬁrmar la decisión recurrida, habida cuenta de la evolución que nuestra doctrina ha tenido
+en la materia de que tratamos -indemnización por daño moral en la infracción de derechos fundamentalesy que ha comportado el abandono del criterio que representa la decisión de contraste, para situarnos en la
+doctrina aplicada por la sentencia recurrida, tal como ha quedado expuesto en multitud de resoluciones (así,
+sirvan de ejemplo las SSTS 02/02/15 -rco 279/13 -; 05/02/15 -rco 77/14 -; 13/07/15 -rco 221/14 -; 18/05/16 rco 37/15 -; 02/11/16 -rco 262/15 -; 26/04/16 -rco 113/15 -; 18/05/16 -rco 150/15 -; 24/01/17 -rcud 1902/15
+-; y 05/10/17 - rcud 2497/15 -), y cuyo criterio seguiremos a continuación, reproduciendo párrafos de la STS
+02/02/15 [rco 279/13 ].
+2.- Ha de reconocerse que la doctrina de la Sala en orden a la cuestión de que tratamos -indemnización por
+vulneración de derechos fundamentales- no ha tenido la uniformidad que sería deseable, pasando de una
+inicial fase de concesión automática en la que se entendió procedente la condena al pago de la indemnización
+por los daños morales causados, sin necesidad de que se acredite un especíﬁco perjuicio, dado que éste
+se presume (así, SSTS 09/06/93 -rcud 3856/92 -; y 08/05/95 -rco 1319/94 -), a una posterior exigencia de
+bases y elementos clave de la indemnización reclamada que justiﬁquen suﬁcientemente la misma y que estén
+acreditados indicios o puntos de apoyo suﬁcientes en los que se pueda asentar la condena [ SSTS 22/07/96
+-rco 7880/95 -; ... 11/06/12 - rcud 3336/11 -; y 15/04/13 -rcud 1114/12 - ].
+ero en los últimos tiempos esta doctrina de la Sala también ha sido modiﬁcada, en primer lugar atendiendo
+al criterio aperturista que actualmente informa el resarcimiento del daño moral [incluso se recomienda su
+aplicación en el ámbito de los incumplimientos contractuales por los PETL y por UNIDROIT: STS I 15/06/10
+-rec. 804/06 -], y por la consideración acerca de la «inexistencia de parámetros que permitan con precisión
+traducir en términos económicos el sufrimiento en que tal daño [moral] esencialmente consiste ... [lo que] lleva,
+por una parte, a un mayor margen de discrecionalidad en la valoración ... y, por otra parte, "diluye en cierta
+medida la relevancia para el cálculo del quantum indemnizatorio" de la aplicación de parámetros objetivos, pues
+"los sufrimientos, padecimientos o menoscabos experimentados "no tienen directa o secuencialmente una
+traducción económica" [ SSTS/Iª 27/07/06 Ar. 6548 ; y 28/02/08 -rec. 110/01 -]» [ SSTS 21/09/09 -rcud 2738/08
+-; y 11/06/12 -rcud 3336/11 -]. Y sobre todo, en atención a la nueva regulación que se ha producido en la materia
+tras el art. 179.3 LRJS , precepto para el que la exigible identiﬁcación de «circunstancias relevantes para la
+determinación de la indemnización solicitada» ha de excepcionarse -éste es el caso de autos- «en el caso de los
+daños morales unidos a la vulneración del derecho fundamental cuando resulte difícil su estimación detallada»
+Criterios a los que ciertamente se adelantaba la Sala al aﬁrmar que «dada la índole del daño moral, existen
+algunos daños de este carácter cuya existencia se pone de maniﬁesto a través de la mera acreditación de la
+lesión... lo que suele suceder, por ejemplo, con las lesiones del derecho al honor o con determinadas conductas
+antisindicales ...» ( SSTS 12/12/07 -rco 25/07 -; y 18/07/12 -rco 126/11 -).
+3.- Añadamos a tales aﬁrmaciones las llevadas a cabo -entre otras- en la STS 13/07/15 [rco 221/14 ], respecto
+de que «... al referirse a las indemnizaciones a ﬁjar como consecuencia de la vulneración de un derecho
+fundamental, su art. 183.3 señala que «[e]l tribunal se pronunciará sobre la cuantía del daño, determinándolo
+prudencialmente cuando la prueba de su importe exacto resulte demasiado difícil o costosa, para resarcir
+suﬁcientemente a la víctima ..., así como para contribuir a la ﬁnalidad de prevenir el daño». Con ello es claro
+que el precepto viene a atribuir a la indemnización -por atentar contra derechos fundamentales- no sólo una
+función resarcitoria [la utópica restitutio in integrum ], sino también la de prevención general». Y que «... la
+utilización del criterio orientador de las sanciones pecuniarias previstas por la LISOS para las infracciones
+producidas en el caso ha sido ha sido admitido por la jurisprudencia constitucional [ STC 247/2006, de 24/
+Julio ], a la par que considerado idóneo y razonable en precedentes decisiones de esta Sala (SSTS 15/02/12
+- rco. 67011-; 08/07/14 -rco 282/13 -; y 02/02/15 -rco 279/13 -). De esta forma, la más reciente doctrina de la
+Sala se ha alejado más -en la línea pretendida por la ya referida LRJS- del objetivo propiamente resarcitorio,
+para situarse en un plano que no descuida el aspecto preventivo que ha de corresponder a la indemnización
+en casos como el presente».
+
+13
+
+JURISPRUDENCIA
+Se recoge en la sentencia del STSJ, Social sección 1 del 27 de julio de 2023 ( ROJ: STSJ ICAN 2290/2023
+- ECLI:ES:TSJICAN:2023:2290), Sentencia: 1143/2023, Recurso: 355/2023 " Sentencias sobradamente
+conocidas como la del Tribunal Supremo de 5 de octubre de 2.017 (rcud. 2497/2015 ) recuerdan que « Las
+SSTS 17 diciembre 2013 (rco 109/2012 ), 8 julio 2014 (rco 282/2013 ), 2 febrero 2015 (rco 279/2013 ),
+26 abril 2016 -rco 113/2015 - o 649/2016 de 12 julio ( rec. 361/2014 ), entre otras, exponen lo siguiente
+acerca de la indemnización por daño moral cuando existe vulneración de derecho fundamental ( arts. 179.3 ,
+182.1.d , 183.1 y 2 LRJS ): [...] de donde es dable deducir que los daños morales resultan indisolublemente
+unidos a la vulneración del derecho fundamental y que tratándose de daños morales cuando resulte difícil su
+estimación detallada deberán ﬂexibilizarse, en lo necesario, las exigencias normales para la determinación de
+la indemnización; [...] Cuando la sentencia declare la existencia de vulneración, el juez deberá pronunciarse
+sobre la cuantía de la indemnización que, en su caso, le corresponda a la parte demandante por haber
+sufrido discriminación u otra lesión de sus derechos fundamentales y libertades públicas, en función tanto
+del daño moral unido a la vulneración del derecho fundamental, como de los daños y perjuicios adicionales
+derivados " ( art. 183.1 LRJS ), se reiteran los principios del deber judicial de pronunciarse sobre la cuantía de la
+indemnización, así como de la esencial vinculación del daño moral con la vulneración del derecho fundamental;
+[...] respecto al daño, sobre cuyo importe debe pronunciarse necesariamente el Tribunal, se atribuye a éste,
+tratándose especialmente de daños morales ("cuando la prueba de su importe exacto resulte demasiado difícil
+o costosa" y arg. ex art. 179.3 LRJS ), la facultad de determinándolo prudencialmente, así como, con respecto
+a cualquier tipo de daños derivados de vulneraciones de derechos fundamentales o libertades públicas, se
+preceptúa que el importe indemnizatorio que se ﬁje judicialmente debe ser suﬁciente no solo para la reparación
+íntegra, sino, además "para contribuir a la ﬁnalidad de prevenir el daño", es decir, ﬁjando expresamente los
+principios de suﬁciencia y de prevención ».
+Descartada, como decimos, la naturaleza facultativa de la reparación una vez constatada la discriminación,
+no menos importante es la cuantiﬁcación de la reparación del daño moral que el citado artículo 27 además
+presume. En la jurisprudencia y con vocación de aplicación a todos los supuestos de vulneración de derechos
+fundamentales, la citada Sentencia del Tribunal Supremo de 5 de octubre de 2.017 (rcud. 2497/2015 ) ofrecía
+como pautas de aplicación al caso de " ﬁjar la cuantía de la indemnización en función tanto del daño moral
+unido a la vulneración del derecho fundamental, como de los daños y perjuicios adicionales derivados (arg.
+ex art. 183.1 LRJS ) " y señala que « Concretada en este caso la pretensión indemnizatoria de la parte
+demandante a la reparación del daño moral, al no haberse acreditado perjuicios materiales concretos, para
+cumplir con el deber de cuantiﬁcar el daño, puede determinarse prudencialmente cuando, como acontece
+como regla tratándose de daños morales, la prueba de su importe exacto resulte demasiado difícil o costosa,
+ﬂexibilizando, en lo necesario, las exigencias normales para la determinación de la indemnización, y debiendo
+ser la indemnización ﬁjada suﬁciente para resarcir a la víctima y para restablecer a ésta, en la medida de lo
+posible, en la integridad de su situación anterior a la lesión, así como para contribuir a la ﬁnalidad de prevenir el
+daño (arg. ex arts. 179.3 y 183.2 LRJS ). [...] el acudimiento a la LISOS actúa como parámetro orientador, pero
+ello no signiﬁca que haya que examinar el asunto desde la misma óptica que cuando se está imponiendo una
+sanción administrativa (legalidad, tipicidad, non bis in ídem, etc.). Aquí se parte de que ha existido vulneración
+de derechos fundamentales y de que se debe ﬁjar la indemnización asociada a ello. Tanto los propios hechos
+probados, expuestos más arriba, cuando la explicación que da la sentencia de instancia ponen de relieve que
+estamos ante una conducta empresarial grave [...] En esas condiciones, que se acuda a las sanciones previstas
+para infracciones empresariales muy graves parece lógica. Además, el artículo 8.2 LISOS considera infracción
+muy grave [...] ».
+La jurisprudencia uniﬁcada ha proseguido ahondando en la cuestión de la cuantiﬁcación, como expone
+la sentencia del Tribunal Supremo de 20 de abril de 2.022 (rcud. 2391/2019 ): « 1.- Por otro lado, como
+recientemente han recordado nuestras SSTS de 22 de febrero de 2022, Rcud. 4322/2019 y de 9 de marzo
+de 2022, Rcud. 2269/2019 , la STS de 5 de octubre de 2017, Rcud. 2497/2015 contiene un resumen de
+la doctrina actual de la Sala en la materia, con cita de sentencias anteriores de la Sala en las que hemos
+dicho que los daños morales resultan indisolublemente unidos a la vulneración del derecho fundamental,
+y al ser especialmente difícil su estimación detallada, deben ﬂexibilizarse las exigencias normales para la
+determinación de la indemnización. Reiterando esa doctrina, la indemnización de daños morales abre la vía a la
+posibilidad de que sea el órgano judicial el que establezca prudencialmente su cuantía, sin que pueda exigirse al
+reclamante la aportación de bases más exactas y precisas para su determinación, en tanto que en esta materia
+se produce la "inexistencia de parámetros que permitan con precisión traducir en términos econgómicos el
+sufrimiento en que tal daño [moral] esencialmente consiste ... [lo que] lleva, por una parte, a un mayor margen
+de discrecionalidad en la valoración ... y, por otra parte, "diluye en cierta medida la relevancia para el cálculo
+del quantum indemnizatorio" de la aplicación de parámetros objetivos, pues "los sufrimientos, padecimientos
+o menoscabos experimentados "no tienen directa o secuencialmente una traducción económica" [ SSTS/Iª
+
+14
+
+JURISPRUDENCIA
+27/07/06 Ar. 6548; y SSTS/4ª 28/02/08 -rec. 110/01 -]" ( SSTS 21/09/09 -rcud 2738/08 -; y 11/06/12 -rcud
+3336/11 )", de tal forma que "en atención a la nueva regulación que se ha producido en la materia tras la
+LRJS se considera que la exigible identiﬁcación de "circunstancias relevantes para la determinación de la
+indemnización solicitada" ha de excepcionarse en el caso de los daños morales unidos a la vulneración del
+derecho fundamental cuando resulte difícil su estimación detallada".
+2.- Igualmente, hemos aﬁrmado que la utilización del criterio orientador de las sanciones pecuniarias previstas
+por la Ley de infracciones y sanciones del orden para las infracciones producidas en el caso, ha sido ha sido
+admitido por la jurisprudencia constitucional ( STC 247/2006, de 24 de julio), a la par que considerado idóneo
+y razonable en precedentes decisiones de esta Sala (SSTS de 15 de febrero de 2012, Rcud. 6701 ; de 8 de julio
+de 2014, Rec. 282/13 ; de 2 de febrero de 2015, Rec. 279/13 ; de 19 de diciembre de 2017, Rcud. 624/2016 y de
+13 de diciembre de 2018 ; entre muchas otras). Con la utilización de los elementos que ofrece la cuantiﬁcación
+de las sanciones de la LISOS, no estamos haciendo una aplicación sistemática y directa de la misma, sino
+que nos ceñimos a la razonabilidad que algunas de esas cifras ofrecen para la solución del caso, atendida
+a la gravedad de la vulneración del derecho fundamental. De esta forma, la más reciente doctrina de la Sala
+se ha alejado más -en la línea pretendida por la ya referida LRJS- del objetivo propiamente resarcitorio, para
+situarse en un plano que no descuida el aspecto preventivo que ha de corresponder a la indemnización en
+casos como el presente.
+3.- Sin embargo, en multitud de ocasiones el recurso a la utilización de los elementos que ofrece la
+cuantiﬁcación de las sanciones de la LISOS no resulta, por sí mismo, suﬁciente para cumplir con relativa
+precisión la doble función de resarcir el daño y de servir de elemento disuasorio para impedir futuras
+vulneraciones del derecho fundamental. Ello es debido a que la horquilla de la cuantiﬁcación de las sanciones
+en la Lisos para un mismo tipo de falta (leve, grave, muy grave) resulta ser excesivamente amplía. Piénsese
+que, en estos momentos, la sanción por la comisión de una falta muy grave en materia laboral puede ﬁjarse
+entre 7.501 euros y 225.018 euros, según el artículo 40 LISOS ; y, al tiempo de producirse los hechos la
+horquilla de dichas sanciones estaba entre 6.251 euros y 187.515 euros. Por ello, el recurso a las sanciones
+de la LISOS debe ir acompañado de una valoración de las circunstancias concurrentes en el caso concreto.
+Aspectos tales como la antigüedad del trabajador en la empresa, la persistencia temporal de la vulneración del
+derecho fundamental, la intensidad del quebrantamiento del derecho, las consecuencias que se provoquen en
+la situación personal o social del trabajador o del sujeto titular del derecho infringido, la posible reincidencia
+en conductas vulneradoras, el carácter pluriofensivo de la lesión, el contexto en el que se haya podido producir
+la conducta o una actitud tendente a impedir la defensa y protección del derecho transgredido, entre otros que
+puedan valorarse atendidas las circunstancias de cada caso, deben constituir elementos a tener en cuenta en
+orden a la cuantiﬁcación de la indemnización ».
+Aunque el recurso a la LISOS no se rechace, pues en función de las circunstancias concurrentes las cantidades
+ﬁjadas para la sanción de la infracción pueda considerarse proporcionadas y adecuadas para reparar el daño
+causado, se impone en todo caso la valoración de aquéllas. Las circunstancias que nos ofrece el recurrente
+son relevantes. La antigüedad del trabajador no alcanzaba el año; la empresa contrató a un trabajador que ya
+había sido declarado en situación de incapacidad permanente para otra profesión, actitud que se ha de refutar
+como positiva y proactiva al empleo de un colectivo con diﬁcultades de acceso al mercado laboral; el proceso
+de incapacidad temporal iniciado se estimó por el facultativo como de corta duración; y hasta el momento de
+la entrada en vigor de la Ley 15/2022 la enfermedad como tal, sin el plus de asimilación a discapacidad, no
+era considerada como factor de discriminación.
+Entendemos que tales circunstancia deben valorarse a efectos de modular el importe indemnizatorio,
+considerando como adecuado, suﬁciente y proporcionado atender al periodo temporal que restaba para el
+vencimiento de la contratación temporal conforme al módulo del salario diario declarado probado, resultando
+una suma de 2.853,20 euros, cantidad que ha de ser la reconocida, con estimación parcial del recurso."
+Se recoge en la sentencia STS, Social sección 1 del 06 de junio de 2023 ( ROJ: STS 2457/2023 ECLI:ES:TS:2023:2457) Sentencia: 397/2023, Recurso: 4538/2019 "Así, admitido como válido el baremo de la
+LISOS para ﬁjar la indemnización debida por daño moral a la actora, -como razona la sentencia de instancia-,
+que es el importe de la multa del grado mínimo señalada para las infracciones muy graves ( art. 40.1.c) de
+la LISOS), y entendiéndose comprendida la presente en la muy grave prevista en el art. 8.12 de la misma
+Ley, cuyo importe va de 6.251 a 25.000 euros, que se ﬁja en el importe mínimo de 6.251 euros, esta cuantía
+ha de aceptarse como válida, sin que sea aceptable rebajar el importe por debajo del referido baremo,
+indiscutiblemente aceptado por las partes."
+
+15
+
+JURISPRUDENCIA
+Por lo que, atendiendo a la jurisprudencia anterior en la que se recoge que toda vulneración de un derecho
+fundamental lleva consigo la indemnización del daño moral, atendiendo a que debe ﬁjarse en la presente
+resolución la cuantía a la que asciende el mismo, habiendo sido admitido como válido el baremo de la LISOS
+para ﬁjar dicha indemnización debida por daño moral, atendiendo a que ha de valorarse en el caso concreto
+las circunstancias concurrentes, constatándose que la vulneración de un derecho fundamental esta tipiﬁcado
+como infracción grave en el articulo 8.10 y se le impone como sanción mínima el importe de 7.501 euros en el
+articulo 40.1.c), no habiendo aportado la parte recurrente los aspectos como la antigüedad del trabajador, las
+consecuencias que provocaron en el trabajador la infracción denunciada a los efectos de su valoración para
+determinar el importe concreto de la horquilla, de todo lo expuesto, se concluye que procede la ﬁjación del
+importe de 7.501 euros como indemnización del daño moral, al ser el mínimo legal previsto en supuestos de
+infracción grave en la vulneración del derecho fundamental.
+Por todo lo expuesto, procede estimar el recurso contencioso administrativo y declarar la nulidad de la
+actuación realizada por la administración consistente en la imposición de las visitas relacionadas en el
+expediente administrativo al no haber acreditado la administración, que es a quien le correspondía la carga de
+la prueba, que dichas visitas se encontraban dentro de los servicios mínimos acordados en la Orden y que se
+cumplía con el correspondiente porcentaje, al no haber practicado prueba en dicho sentido, y en consecuencia
+procede que la parte demandada indemnice a la parte recurrente en el importe de 7.501 euros en concepto
+de reparación del daño moral ocasionado".
+En cuanto a las costas procesales, se expresa en el último fundamento de derecho de la sentencia:
+"TERCERO. Costas. Atendido el art. 139 de la Ley de la Jurisdicción Contencioso-Administrativa procede
+imposición de costas, condenando a la parte demandada al pago hasta el límite de 300 euros".
+2.- Sobre las pretensiones y los motivos de las partes en esta alzada, también las alegaciones del Ministerio
+Fiscal.
+2.1.- La parte apelante demandada.
+La parte apelante demandada, Institut Català de la Salut, interesa de la Sala que en relación con el recurso
+de apelación "interposat contra la Sentència de 4 d'octubre de 2023", "dicti sentència que revoqui la sentència
+de primera instància, acordant la no vulneració del dret fonamental de vaga". Lo que viene fundamentado en
+los motivos del recurso de apelación que ordena y desarrolla como sigue. 1. La sentencia reduce la cuestión
+litigiosa al número de actuaciones llevadas a cabo el día 25 de enero de 2023 y desconoce que la controversia
+reside en los límites de un derecho fundamental, que exige una valoración de la proporcionalidad del contenido
+de los servicios mínimos con otros derechos fundamentales protegidos, como son en este caso el derecho
+a la vida y a la integridad física, también el derecho a la protección de la salud. No ha valorado la sentencia
+que en el mantenimiento de las 19 actuaciones de la parte actora en un servicio unipersonal de pediatría,
+pueden verse afectados derechos fundamentales e intereses jurídicamente protegidos. Tampoco se tiene
+en cuenta que las visitas ordinarias fueron 4 de las 19, siendo la mayoría de las actuaciones por "consultas
+espontáneas" fuera de cualquier programación, que fueron atendidas ante la inmediatez de la solicitud. Esto
+es, atendida la naturaleza de las consultas practicadas no puede deducirse ni se desprende que hubiera
+mantenido una actividad normal y ordinaria el día 25 de enero de 2023, cuestión que tampoco se ha analizado
+por la sentencia a la hora de determinar si ha existido o no la vulneración del derecho de huelga. En cualquier
+caso, la sentencia recurrida no entra a valorar la proporcionalidad de la medida, juicio que resulta necesario.
+2. La sentencia tampoco procede al análisis del artículo 6 de la Orden EMT/2023, a tenor del cual cuando
+se trate de un dispositivo asistencial unipersonal, como es el caso del servicio de pediatría del CAP de les
+Borges Blanques, habrá de considerarse como servicio mínimo habiéndose de prestar en todos los casos una
+asistencia normal propia del servicio especial y ordinario, cuestión que no ha sido analizada en la decisión
+judicial. 3. En conclusión, atendido el contenido del artículo 6 de la Orden EMT/2003, en relación con la agenda
+de la parte actora del día en cuestión, entendiendo que de las 19 visitas, 10 se consideran de asistencia
+urgente y sólo 4 se consideran programadas y 5 de econsulta, por lo que se han respetado en todo momento
+los servicios mínimos, sin que se haya producido ninguna vulneración del derecho fundamental de huelga,
+en relación con los derechos fundamentales directamente afectados y protegidos como son el derecho a la
+integridad física y a la asistencia médica. 4. Por lo que respecta a la indemnización, son muchas las sentencias
+del Tribunal Supremo que excluyen pretensiones indemnizatorias análogas a las ejercitadas por los sindicatos
+recurrentes. Así, sentencias de 28 de abril de 2014 ( recurso de casación 1487/2013), de 19 de noviembre de
+
+16
+
+JURISPRUDENCIA
+2014 ( recurso de casación 2216/2013) y de 28 de enero de 2015 ( recurso de casación 148/2014). Además,
+no se acreditan circunstancias que puedan justiﬁcar una compensación metálica para su más adecuada
+reparación, sin pasar por alto que no se ofrecen criterios de cuantiﬁcación de la indemnización. Por lo que
+no puede estimarse la pretensión indemnizatoria por daño moral ejercitada por la parte actora. 5. En relación
+con las costas impuestas a la parte demandada, no procede la imposición de las mismas habida cuenta de
+la cuestión litigiosa sobre límites de un derecho fundamental, cuestión en ningún caso pacíﬁca y que genera
+dudas de hecho y de derecho. En parecido sentido, el fundamento de derecho tercero de la sentencia número
+76/2022, de 28 de julio, de la Sección Cuarta de la Sala de lo Contencioso-Administrativo del Tribunal Superior
+de Justicia de Cataluña.
+2.2.- La parte apelada actora.
+La parte apelada actora, Tristán , interesa de la Sala que dicte sentencia "que desestimi el recurs interposat
+de contrari i conﬁrmi la sentència d'instància per ser perfectament ajustada a dret". Tras la exposición de
+la alegación consistente en "Antecedents", plantea "Motius d'oposició i impugnació del Recurs". 1) "Primer.S'al·lega infracció de l' article 43 de la Constitució Espanyola per mala valoració del mateix per part de la
+Sentència d'Instància". Dicho planteamiento se aparta del objeto de la demanda, dado que no se cuestiona
+el decreto de mínimos aprobado en su día por el departamento correspondiente, momento en que sí ha de
+analizarse bajo un prisma de la proporcionalidad. El objeto del presente procedimiento es determinar si en
+el caso concreto obligar al actor, que tiene asignados servicios mínimos, a trabajar cumpliendo la agenda
+ordinaria en un día de huelga es contrario o no al derecho fundamental denunciado. La sentencia de instancia
+no ha de llevar a cabo un juicio de proporcionalidad entre los derechos fundamentales en juego, el derecho
+de huelga y el derecho a la salud, eso correspondería al enjuiciamiento del decreto de servicios mínimos. En
+el supuesto de autos, el actor no cuestiona en ningún momento el contenido del decreto de mínimos ni la
+proporcionalidad del mismo, lo que denuncia es la vulneración de su derecho a la huelga. La asignación para
+realizar servicios mínimos no equivale a la realización de la agenda normal y ordinaria de una jornada en la
+que no se realiza huelga cuando quien la hace es un pediatra de un centro de asistencia primaria que ha de
+garantizar el 100% de las tareas relativas a urgencias, pero ningún caso el 100% de las tareas normales y
+ordinarias. 2. "Segon.- Al·lega la recorrent infracció per mala aplicació de l'article 6 de l'Ordre EMT/2003 (pàgina
+53 de l'expedient)". Sostiene la apelante que la sentencia recurrida no procede a examinar la Orden dictada
+de establecimiento de los servicios mínimos. Pero la sentencia realizó una comparativa entre el contenido
+de la Orden y la decisión de la demandada de obligar a realizar la agenda normal y ordinaria. Precisamente,
+la sentencia estima la demanda porque se atenta al derecho fundamental de huelga cuando se obliga a
+hacer más de lo que se determina como mínimo en el decreto correspondiente. La sentencia signiﬁca la no
+acreditación por la administración demandada de que las visitas llevadas a cabo por el actor se encuentran
+dentro de los servicios mínimos acordados por la orden EMT/2023. 3. "Tercer.- Al·lega la recorrent infracció per
+mala aplicació de l'article 6 de l'Ordre EMT/2003 (pàgina 53 de l'expedient)". Insiste la apelante de nuevo en ese
+argumento. Por mucho que insista la demandada en aﬁrmar que el trabajador realizó 10 visitas urgentes, lo que
+se acreditó es que eran visitas espontáneas, esto es, sin hora previa, lo que no quiere decir que sean urgentes.
+Ni tampoco quiere decir que las 5 visitas de econsulta no fueran programadas, al contrario, lo son también
+aunque no se lleven a cabo en formato presencial. Y como se ha dicho no ha acreditado la administración
+demandada que las 19 visitas se correspondían con los servicios mínimos decretados. 4. "Quart.- Respecte a
+la indemnització de danys i perjudicis". La vulneración del derecho fundamental descrito implica la obligación
+de reparar el daño generado, teniendo en cuenta que se ha vaciado de contenido el correcto ejercicio del
+derecho a la huelga imponiendo la realización de la agenda ordinaria al actor designado en servicios mínimos.
+La indemnización solicitada se ﬁja en 7.501 euros en aplicación de los criterios establecidos por la Sala de lo
+Social del Tribunal Superior de Justicia de Cataluña cuando está en juego la tutela de los derechos a la libertad
+sindical, entre los cuales se cuenta el derecho de huelga, partiendo del parámetro establecido en el apartado
+c) del punto primero del artículo 40 de la LISOS. La sentencia de instancia conﬁrma dicha petición a través de
+una profunda argumentación y justiﬁcación sin que resulten de aplicación las sentencias citadas por la parte
+apelante, dado que vienen referidas a la situación de sindicatos y no una persona individual a la que se le ha
+vulnerado directamente el derecho de huelga, es un derecho individual, aunque ejercicio colectivo, motivo por
+el cual no se estima que ser indemnizable cuando la actora de un procedimiento de tutela es un sindicato, pero
+sí cuando es una persona trabajadora. 5. "Cinquè.- Costes". En cuanto las costas, la parte lo deja a criterio de
+la Sala sin perjuicio de apuntar que en aquellos procedimientos en que se dirimen cuestiones relativas a la
+función pública deberían estar excluidas de la condena en costas.
+2.3.- El Ministerio Fiscal.
+
+17
+
+JURISPRUDENCIA
+El Fiscal sostiene que "existió lesión del derecho fundamental interesando la desestimación del recurso".
+Interesa la conﬁrmación de la sentencia signiﬁcando que en el presente procedimiento no se cuestiona como
+tantas veces se ha dicho el decreto de servicios mínimos sino que se trata de determinar si la administración
+habría respetado el principio de proporcionalidad en el caso concreto del demandante cuando con la excusa
+de los servicios mínimos se le hizo atender toda su agenda ordinaria en un día de huelga vulnerando de
+esa manera el derecho fundamental. Así lo motiva extensa y adecuadamente la sentencia. En deﬁnitiva, una
+asignación de servicios mínimos no puede equivaler a la realización de la agenda normal como cuando no se
+realiza huelga y lo contrario debería haberse acreditado por la administración, lo que aquí no ha sucedido.
+SEGUNDO.- Decisión de la controversia en esta alzada. Sobre la naturaleza del recurso de apelación. En el
+caso, las críticas a la sentencia de instancia formuladas por la demandada consistentes en 1) la no valoración
+en el juicio de proporcionalidad de la afectación de otros derechos fundamentales (vida e integridad física) y
+la protección de la salud, 2) la no apreciación del respeto de los servicios mínimos a tenor de lo dispuesto en
+el artículo 6 de la Orden EMT/2023, y la improcedencia tanto 3) de la pretensión indemnizatoria por daños
+morales como 4) de la imposición de las costas procesales.
+De entrada, sobre la naturaleza y la ﬁnalidad del recurso de apelación no sobra recordar que: 1) La ﬁnalidad del
+recurso de apelación es la depuración de un resultado procesal obtenido en la instancia, de modo que el escrito
+de alegaciones del apelante ha de contener una crítica razonada y articulada de la sentencia apelada, que es
+lo que ha de servir de base a la pretensión de sustitución del pronunciamiento recaído en primera instancia.
+Es decir, no es posible la reiteración simple y llana de los argumentos vertidos en la instancia con la ﬁnalidad
+de convertir la revisión en una nueva instancia para conseguir una sentencia a su favor. 2) En el recurso de
+apelación el Tribunal "ad quem"goza de competencia para revisar y decidir todas las cuestiones planteadas,
+pero no puede revisar de oﬁcio los razonamientos de la sentencia apelada al margen de los motivos esgrimidos
+por la parte apelante, como fundamento de su pretensión revocatoria; por lo que la parte apelante debe
+individualizar los motivos opuestos, a ﬁn de que puedan examinarse dentro de los límites y en congruencia
+con los términos en que vengan ejercitados sin que baste con que se reproduzcan los fundamentos utilizados
+en la primera instancia, al no estar concebida la apelación como una repetición del proceso de instancia, sino
+como una revisión de la sentencia impugnada. La falta de motivación o razonamiento especíﬁco dirigido a
+combatir la sentencia apelada, equivale a omitir las alegaciones correspondientes a las pretensiones en la
+segunda instancia. 3) Por otro lado, el recurso de apelación permite discutir la valoración que de la prueba
+practicada hizo el juzgador de instancia. Sin embargo, la facultad revisora por el Tribunal "ad quem"de la prueba
+realizada por el Juzgado de instancia debe ejercitarse con ponderación, en tanto que fue aquel órgano quien
+las realizó con inmediación y por tanto dispone de una percepción directa de aquéllas, percepción inmediata
+de la que carece la Sala de Apelación, salvo siquiera de la prueba documental. En este caso el Tribunal "ad
+quem"podrá entrar a valorar la práctica de las diligencias de prueba practicadas defectuosamente, entendiendo
+por infracción aquella que afecta a la regulación especíﬁca de las mismas, fácilmente constatable, así como
+de aquellas diligencias de prueba cuya valoración sea notoriamente errónea; esto es, cuya valoración se revele
+como equivocada sin esfuerzo.
+Centrado el objeto de esta alzada en los términos antes expuestos, y partiéndose aquí de la naturaleza y la
+ﬁnalidad del recurso de apelación que acaban de referirse, sobre todo que el mismo no puede considerarse
+como una mera reiteración de la primera instancia cuyo objeto sea la actuación administrativa impugnada
+en el correspondiente proceso sino como un proceso especial de impugnación de una resolución judicial
+cuyo objeto es la sentencia dictada en primera instancia, procede signiﬁcar que la parte apelante demandada,
+efectivamente, realiza unas críticas a la sentencia apelada por entender que dicha resolución judicial 1) no tiene
+en cuenta en el juicio de proporcionalidad la afectación de otros derechos fundamentales (vida e integridad
+física) y la protección de la salud, 2) no aprecia el respeto de los servicios mínimos estipulados en el artículo
+6 de la Orden EMT/2023, 3) reconoce sin amparo jurisprudencial contencioso-administrativo la pretensión
+indemnizatoria por daños morales y 4) impone indebidamente las costas procesales.
+Aunque en parte de los pasajes del recurso de apelación la parte actora utilice la argumentación desplegada en
+la instancia (contestación a la demanda), considera la Sala que, a tenor de aquellas críticas a la sentencia, en
+modo alguno cabe apreciar la posible carencia de fundamento del recurso de apelación. Cosa distinta es que
+la parte apelante demandada tenga razón en sus críticas a la sentencia, lo que se trata seguidamente, desde
+la perspectiva estricta del ámbito de cognición del recurso de amparo ordinario, eso es, del proceso especial
+
+18
+
+JURISPRUDENCIA
+para la protección de los derechos fundamentales, ex artículos 114 siguientes de la Ley 29/1998, reguladora
+de esta jurisdicción.
+Se ha reproducido más arriba el fundamento de derecho primero de la sentencia de instancia, donde se
+identiﬁca el objeto del recurso y se explicitan las pretensiones y los motivos sostenidos en la instancia por
+las partes actora y demandada y el parecer del Fiscal, así como su fundamento de derecho segundo, que
+alberga el razonamiento conducente a la estimación del recurso de amparo ordinario al entender conculcado
+por la administración demandada el derecho fundamental del artículo 28.1 de la Constitución invocado por
+la parte actora, y ello con base en la jurisprudencia constitucional y ordinaria sobre el derecho fundamental
+concernido y la pretensión indemnizatoria por daños morales. También se han reproducido más arriba tanto
+las alegaciones formuladas por la parte apelante demandada (consistentes en que la resolución judicial:
+no tiene en cuenta en el juicio de proporcionalidad la afectación de otros derechos fundamentales -vida e
+integridad física- y la protección de la salud; no aprecia el respeto de los servicios mínimos estipulados
+en el artículo 6 de la Orden EMT/2023; reconoce sin amparo jurisprudencial contencioso-administrativo
+la pretensión indemnizatoria por daños morales; e impone indebidamente las costas procesales) como la
+oposición a los motivos del recurso de apelación planteadas por la parte apelada actora, que en deﬁnitiva
+signiﬁca el correcto enjuiciamiento de fondo efectuado en la sentencia, de cuyo acierto también informa el
+Ministerio Fiscal.
+Es conocida la jurisprudencia constitucional y ordinaria sobre la motivación y la proporcionalidad de los
+servicios mínimos en el ejercicio del derecho de huelga. Enseña el Tribunal Constitucional en su sentencia
+número 2/2022, de 24 enero, dictada por su Sala Segunda en el recurso de amparo número 3967/2019,
+fundamento jurídico 3:
+"3 Jurisprudencia constitucional sobre la motivación y proporcionalidad de los servicios mínimos en el ejercicio
+del derecho de huelga.
+Según la jurisprudencia constitucional "la principal técnica que viene utilizándose para garantizar el
+mantenimiento de los referidos servicios esenciales es la de la ﬁjación de los servicios mínimos a cumplir por
+los trabajadores" ( STC 45/2016, de 14 de marzo, FJ 3).
+Esta materia plantea, entre otras, una controversia sobre las exigencias de motivación y proporcionalidad
+vinculadas al carácter restrictivo que tiene la determinación de los servicios mínimos para el ejercicio del
+derecho de huelga. Los principales pronunciamientos en la materia, que toman como referencia la STC
+11/1981, de 8 de abril, en cuyo FJ 18, con ocasión del recurso de inconstitucionalidad promovido contra
+diversos preceptos del Real Decreto-Ley 17/1977, de 4 de marzo, sobre relaciones de trabajo, el Tribunal se
+pronunció sobre el alcance de la citada limitación del art. 28.2 CE, las SSTC 26/1981, de 17 de julio; 51/1986,
+de 24 de abril; 53/1986, de 5 de mayo; 27/1989, de 3 de febrero, FJ 4; 43/1990, de 15 de marzo; 122/1990, de
+2 de julio, FJ 3; y 8/1992, de 16 de enero.
+La jurisprudencia constitucional sobre esta cuestión que puede resumirse así:
+a) La posibilidad establecida en el art. 28.2 CE de que se regulen las garantías precisas para asegurar en
+caso de huelga el mantenimiento de los servicios esenciales de la comunidad determina que el derecho de
+huelga puede ser limitado cuando su ejercicio sea susceptible de impedir u obstaculizar el funcionamiento
+de servicios que atienden la garantía o el ejercicio de los derechos fundamentales, las libertades públicas y
+los bienes constitucionalmente protegidos. La consideración de un servicio como esencial no signiﬁca, sin
+embargo, la supresión del derecho de huelga de los trabajadores ocupados en tal servicio, sino la previsión
+de las garantías precisas para su mantenimiento, lo que implica la prestación de los trabajos necesarios para
+la cobertura mínima de los derechos, libertades o bienes que el propio servicio satisface, pero sin alcanzar el
+nivel de rendimiento habitual.
+b) La determinación de las garantías precisas para asegurar el mantenimiento de los servicios esenciales de
+la comunidad no puede ponerse en manos de ninguna de las partes implicadas en el conﬂicto colectivo que
+supone la huelga, sino que debe ser sometida a un tercero imparcial. Su atribución a la autoridad gubernativa
+es la manera más lógica de cumplir el mandato constitucional, si bien queda limitada por consideraciones
+materiales -las garantías establecidas no pueden vaciar de contenido el derecho de huelga o rebasar la idea de
+su contenido esencial- y formales -el control jurisdiccional de dichas decisiones sobre el mantenimiento de los
+servicios esenciales-, de todo lo cual se inﬁere que su establecimiento debe obedecer a un criterio restrictivo.
+
+19
+
+JURISPRUDENCIA
+c) La decisión de la autoridad gubernativa en la determinación de las garantías precisas para asegurar el
+mantenimiento de los servicios esenciales de la comunidad, en la medida en que implica una limitación en el
+libre ejercicio de un derecho fundamental, debe ser objeto de motivación tras una ponderación y valoración
+de los bienes o derechos afectados, del ámbito personal, funcional o territorial de la huelga, de la duración y
+demás características de esta medida de presión y, en ﬁn, de las restantes circunstancias que concurran en su
+ejercicio y que puedan ser de relevancia para alcanzar el equilibrio más ponderado entre el derecho de huelga
+y los restantes bienes afectados (comunidad afectada, existencia o no de servicios alternativos, etc.).
+d) La ﬁnalidad de esta exigencia de motivación es la de que los destinatarios conozcan las razones por las
+cuales su derecho se sacriﬁcó y los intereses a los que se sacriﬁcó y para que, en su momento, los órganos
+judiciales puedan ﬁscalizar adecuadamente la corrección constitucional del acto del poder público valorando
+su razonable ajuste a las circunstancias y la observancia de la regla de la proporcionalidad de los sacriﬁcios.
+e) La motivación del acto gubernativo en que se determinan las garantías precisas para asegurar el
+mantenimiento de los servicios esenciales de la comunidad puede responder a criterios de concisión y claridad
+propios de la actuación administrativa al poner de maniﬁesto el motivo o fundamento acerca de la esencialidad
+del servicio, las características de la huelga convocada, los bienes que pueden quedar afectados o los trabajos
+que no pueden sufrir interrupción o cuya prestación debe mantenerse en alguna medida. Sin embargo, el deber
+de motivación no puede entenderse cumplido con el simple uso de fórmulas genéricas de las cuales no puedan
+derivarse criterios para enjuiciar la ordenación y proporcionalidad de la restricción que se impone al ejercicio
+del derecho de huelga y el defecto de motivación no puede entenderse subsanado si en un proceso posterior
+la autoridad gubernativa aporta todos los datos técnicos o jurídicos posibles para apoyar su decisión".
+También enseña el Tribunal Supremo, por ejemplo, en sentencia número 21/2021, de 18 de enero, de la Sala
+de lo Contencioso-Administrativo, Sección Cuarta, dictada en el recurso de casación número 3083/2019,
+fundamento de derecho cuarto, apartado 1:
+"CUARTO.- JUICIO DE LA SALA
+"1. Como se ha dicho ya, hay una consolidada jurisprudencia sobre la cuestión controvertida (valga por
+todas las sentencias de esta Sala, antigua Sección Séptima, de 2 de diciembre de 2010, recurso de casación
+5621/2008), así como una no menos consolidada doctrina constitucional (vgr. sentencias del Tribunal
+Constitucional 11 , 26 y 33/1981; 51, 53 y 63/1986; 27/1989, 43/1990, 122/1990 y 123/1990, 8/1992, entre
+otras). De tal cuerpo de doctrina se deduce, en síntesis y con carácter general, lo siguiente:
+1º Que ante el ejercicio del derecho de huelga los servicios mínimos se predican de los esenciales identiﬁcados
+con prestaciones vitales o necesarias para la vida en comunidad; esencialidad que se deriva tanto de la
+actividad en que consisten como por el resultado que con la misma se pretende. Tal juicio sobre la esencialidad
+del servicio afectado no puede vaciar el contenido esencial del derecho a la huelga, haciéndolo impracticable,
+de ahí que deba seguirse un criterio restrictivo.
+2º Que junto a ese juicio sobre la esencialidad del servicio, la llamada "causalización" de la ﬁjación de los
+servicios mínimos exige razonar -motivar- el alcance de otros dos juicios concurrentes: el de proporcionalidad
+respecto de los acordados y el de ponderación respecto de los intereses en liza.
+3º Que en cuanto al equilibrio ponderado de los intereses en liza -el de los trabajadores y el de los destinatarios
+de su actividad- deberá valorarse el ámbito personal, territorial y temporal de la huelga más la actividad material
+afectada, identiﬁcando el número de trabajadores convocados y los adscritos a los servicios mínimos y cómo
+se ha llegado a tal ponderación.
+4º En cuanto al juicio de proporcionalidad, con los servicios mínimos que se ﬁjen no se trata de garantizar
+por sistema un nivel de rendimiento habitual de la actividad afectada, de ahí que unos servicios mínimos
+equivalentes al 100% de la actividad afectada implique vaciar de contenido el ejercicio del derecho de huelga;
+ahora bien, la huelga debe perturbar el interés de la comunidad sólo hasta extremos razonables, a lo que se
+añade que el acto de ﬁjación debe ser neutral e imparcial, luego no puede ser la empresa quien, en la práctica,
+los ﬁje".
+Y de esta Sección Cuarta de la Sala de lo Contencioso-Administrativo del Tribunal Superior de Justicia de
+Cataluña, por ejemplo, en procedimientos de amparo judicial en relación con el derecho fundamental del
+
+20
+
+JURISPRUDENCIA
+artículo 28.1 de la Constitución, la sentencia número 3021/2022, de 28 de julio, dictada en el recurso número
+766/2022; la sentencia número 3169/2022, de 22 de septiembre, dictada en el recurso número 673/2022; y la
+sentencia número 3365/2023, de 17 de octubre, dictada en el recurso número 296/2023, habiendo conocida
+esta última precisamente la Orden EMT/7/2023 de 20 de enero (publicada en el Diario Oﬁcial de la Generalitat
+de Cataluña número 8839 de 24 de enero de 2023), que garantiza los servicios esenciales en todos los
+centros y empresas sanitarias y socio-sanitarias, residenciales y asistenciales, tanto públicas como privadas,
+de Cataluña, Orden que tiene lugar a raíz de la convocatoria de huelga que tuvo lugar los días 25 a 27 de enero
+de 2023.
+Ciertamente, en el supuesto particular de autos no es objeto de examen en la instancia la proporcionalidad
+de los servicios mínimos decretados por aquella Orden EMT/7/2023, por tanto tampoco en esta alzada. Lo
+que viene a discutirse es si se vulnera el derecho fundamental de huelga del médico pediatra actor que
+tiene asignados servicios mínimos y que según sostiene éste se le obliga a realizar una agenda normal. Esa
+controversia pasa por dilucidar si efectivamente en ese día de huelga el médico pediatra realiza por imposición
+la agencia ordinaria estando de servicios mínimos. En este sentido, a la luz de la jurisprudencia aplicable y
+la documental obrante en las actuaciones, y en atención a las reglas de la carga de la prueba (aunque no lo
+dice, debe entenderse la facilidad probatoria de la Administración), el Juzgado sostiene que "la realización
+por parte del recurrente el día 25 de enero de 2023, de 19 vistas de la hora de trabajo diario vulneró su
+derecho a la huelga, al observarse que el recurrente tuvo que realizar el mismo trabajo que cualquier otro día,
+al realizar tanto las visitas espontáneas o econsultas, como las visitas programadas", a lo que añade que "no
+habiendo quedado acreditado por parte de la administración, que es a quien le correspondía la carga de la
+prueba, que dichas visitas se encontraban dentro de los servicios mínimos acordados en la Orden y que se
+cumplía con el correspondiente porcentaje, al no haber practicado prueba en dicho sentido", para después
+concluir que "no concurre la proporcionalidad entre el ejercicio del derecho de huelga y el cumplimiento de unos
+servicios mínimos que conllevaron en este supuesto a la realización por parte del recurrente de la totalidad
+de la agenda ordinaria". En lo más esencial, comparte la Sala dicha razón de decidir del Juzgado de instancia
+concluyente en dicho particular extremo de la falta de proporcionalidad en la imposición al médico pediatra de
+atender la agenda ordinaria con la excusa o el pretexto de tener asignados servicios mínimos. En nada enturbia
+dicha conclusión el argumento sin más desplegado en esta alzada por la parte apelante demandada de la
+ausencia de valoración judicial en el juicio de proporcionalidad de los derechos fundamentales del artículo
+15 de la Constitución y del principio rector del artículo 43.1 de la Constitución, tampoco el alegato sobre el
+cumplimiento estricto de lo dispuesto en el artículo 6 de la Orden EMT/7/2023, toda vez que como sostiene
+el Juzgado no acredita la Administración demandada que la realización de aquella agenda ordinaria o normal
+encuentra amparo y cobijo en los servicios mínimos acordados.
+Desigual suerte, sin embargo, ha de correr la pretensión indemnizatoria por daños morales, que no debió
+acogerse por el Juzgado. Entiende la Sala que en el caso, por sus peculiaridades y la ausencia de
+argumentación actora en torno a la concurrencia de circunstancias personales u otras afectantes a la persona
+individualmente considerada que en deﬁnitiva autoricen un tratamiento distinto de lo que viene diciendo
+esta Sala en asuntos en los que impugna por ejemplo un sindicato, la declaración de la vulneración del
+derecho fundamental del artículo 28.1 de la Constitución cumple en sí misma una función reparadora del
+daño moral que pudiera haberse inﬂigido al actor. Considera además la Sala no vinculante en este orden
+contencioso-administrativo la utilización del parámetro de cuantiﬁcación del daño utilizado por el Juzgado de
+instancia extraído de la aplicación analógica del artículo 40.1. c),en relación con el artículo 8.10, el Real Decreto
+Legislativo 5/2000, de 4 de agosto, por el que se aprueba el texto refundido de la Ley sobre Infracciones y
+Sanciones en el Orden Social.
+Corolario de esa estimación parcial del recurso contencioso-administrativo es la no imposición de costas
+procesales en la primera instancia, conforme a lo dispuesto en el artículo 139.1 de la Ley 29/1998, reguladora
+de esta jurisdicción.
+TERCERO.- Sobre las costas procesales en esta alzada.
+Al prosperar en parte el recurso de apelación, no procede la imposición de costas procesales en esta alzada,
+conforme al artículo 139.2 de la Ley 29/1998, reguladora de esta jurisdicción.
+
+21
+
+JURISPRUDENCIA
+Vistos los preceptos antes citados y demás de general y pertinente aplicación, en nombre de Su Majestad El
+Rey y en el ejercicio de la potestad jurisdiccional que emana del pueblo y que nos conﬁeren la Constitución y
+las leyes, se dicta el fallo siguiente.
+
+FALLO.
+En atención a todo lo expuesto, la Sala de lo Contencioso-Administrativo del Tribunal Superior de Justicia de
+Cataluña, Sección Cuarta, ha decidido:
+Estimar parcialmente el recurso de apelación interpuesto por la demandada, Institut Català de la Salut, contra
+la sentencia número 206/2023, de 4 de octubre, dictada por el Juzgado de lo Contencioso-Administrativo
+número 1 de Lleida y su provincia en su recurso contencioso-administrativo número 100/2023, seguido por
+los trámites del procedimiento especial para la protección de los derechos fundamentales de la persona
+entre la parte actora, Tristán , y aquella demandada, habiendo intervenido el Ministerio Fiscal; Revocar dicha
+sentencia si bien exclusivamente en la parte de la misma que condena a la demandada a indemnizar al
+recurrente por importe de 7.501 euros en concepto de reparación por daño moral y al pago de las costas
+procesales hasta un límite máximo de 300 euros. Sin imposición de costas en esta alzada.
+Notifíquese a las partes y el Fiscal la presente sentencia, que no es ﬁrme. Contra la misma cabe deducir, en
+su caso, recurso de casación ante esta Sala, de conformidad con lo dispuesto en la Sección 3ª, Capítulo III,
+Título IV de la Ley 29/1998, de 13 de julio, reguladora de la jurisdicción contencioso-administrativa. El recurso
+deberá prepararse en el plazo previsto en el artículo 89.1 de dicha Ley 29/1998.
+Y adviértase que en el Boletín Oﬁcial del Estado número 162, de 6 de julio de 2016, aparece publicado el
+acuerdo de 20 de abril de 2016, de la Sala de Gobierno del Tribunal Supremo, sobre la extensión máxima y
+otras condiciones extrínsecas de los escritos procesales referidos al recurso de casación.
+El ingreso de las cantidades se efectuará en la Cuenta de Depósitos y Consignaciones Judiciales
+en esta Sección concertada con el BANCO SANTANDER (Entidad 0049) en la Cuenta de Expediente
+núm.0939-0000-85-046-21, o bien mediante transferencia bancaria a la cuenta de consignaciones del Banco
+de Santander en cuyo caso será en la Cuenta núm. ES5500493569920005001274, indicando en el beneﬁciario
+el T.S.J. Sala de lo Contencioso-Administrativo Sección 4ª NIF: S-2813600J, y en el apartado de observaciones
+se indiquen los siguientes dígitos 0939-0000-85-046-24, en ambos casos con expresa indicación del número
+de procedimiento y año del mismo.
+Luego que gane ﬁrmeza, líbrese y remítase certiﬁcación de la misma, junto a los autos originales, al Juzgado
+provincial de procedencia, acusando el oportuno recibo.
+Así por esta sentencia, de la que se llevará testimonio literal al rollo principal de la apelación, lo pronunciamos,
+mandamos y ﬁrmamos.
+PUBLICACIÓN.-La sentencia anterior ha sido leída y publicada en audiencia pública, por el Magistrado ponente.
+
+22
+
+

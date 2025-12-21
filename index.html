@@ -24,6 +24,7 @@
         <li><a href="#clave-juridica">Clave Jurídica</a></li>
         <li><a href="#pilares">Los 4 Pilares</a></li>
         <li><a href="#jurisprudencia">Jurisprudencia</a></li>
+        <li><a href="#indemnidad">Protección</a></li>
         <li><a href="#checklist">Checklist</a></li>
       </ul>
       <div class="nav-toggle" id="navToggle">
@@ -33,6 +34,17 @@
       </div>
     </nav>
   </header>
+
+  <!-- BOTÓN DESCARGA PDF -->
+  <button id="downloadPdf" class="download-btn" title="Descargar PDF">
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2">
+      <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4" />
+      <polyline points="7,10 12,15 17,10" />
+      <line x1="12" y1="15" x2="12" y2="3" />
+    </svg>
+    PDF
+  </button>
 
   <!-- HERO SECTION -->
   <section class="hero" id="hero">
@@ -131,6 +143,46 @@
           </div>
         </div>
 
+        <!-- CONTRASTE DE VÍAS -->
+        <div class="pillar-card reveal">
+          <span class="pillar-letter">D</span>
+          <div class="pillar-content">
+            <h4>El Contraste</h4>
+            <h3>Por qué esta vía y no otras</h3>
+            <p>
+              Existen tres formas de atacar jurídicamente una vulneración del derecho a huelga.
+              Solo una consigue condenas disuasorias:
+            </p>
+            <div class="comparison-table" style="margin: var(--spacing-md) 0;">
+              <div class="comparison-item"
+                style="padding: var(--spacing-sm); border-left: 3px solid var(--color-text-secondary); margin-bottom: var(--spacing-sm);">
+                <strong style="color: var(--color-text-secondary);">Denuncia Colectiva del Sindicato</strong>
+                <p style="margin: var(--spacing-xs) 0 0 0; font-size: 0.9rem;">
+                  Indemnización única para el sindicato (puede alcanzar ~90.000€). Aunque significativa,
+                  es una sola condena que la empresa asume como coste puntual. <strong>No consigue el efecto
+                    multiplicador.</strong>
+                </p>
+              </div>
+              <div class="comparison-item"
+                style="padding: var(--spacing-sm); border-left: 3px solid var(--color-text-secondary); margin-bottom: var(--spacing-sm);">
+                <strong style="color: var(--color-text-secondary);">Recurso Contencioso-Administrativo</strong>
+                <p style="margin: var(--spacing-xs) 0 0 0; font-size: 0.9rem;">
+                  Impugnar los servicios mínimos en vía contenciosa. La sentencia tarda meses y cuando llega
+                  la huelga ya terminó. <strong>Victoria pírrica: el daño ya está consumado.</strong>
+                </p>
+              </div>
+              <div class="comparison-item"
+                style="padding: var(--spacing-sm); border-left: 3px solid var(--color-accent-gold); background: rgba(212, 175, 55, 0.1);">
+                <strong style="color: var(--color-accent-gold);">Demanda Plural por Vulneración Individual</strong>
+                <p style="margin: var(--spacing-xs) 0 0 0; font-size: 0.9rem;">
+                  Cada trabajador demanda individualmente en un solo procedimiento (art. 19.2 LRJS).
+                  Cada uno reclama su indemnización íntegra. <strong>El efecto multiplicador convierte
+                    150.000€ en millones.</strong>
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
         <!-- EJEMPLO PRÁCTICO -->
         <div class="pillar-card reveal" style="border: 2px solid var(--color-accent-gold);">
           <span class="pillar-letter">€</span>
@@ -285,6 +337,50 @@
             </div>
           </div>
         </div>
+
+        <!-- CAMBIO 2025 -->
+        <div class="card reveal">
+          <div class="card-header">
+            <div class="card-icon"></div>
+            <div>
+              <h3>C. El Cambio Jurisprudencial de 2025</h3>
+              <span class="sentence-badge ts">Tribunal Supremo</span>
+            </div>
+          </div>
+          <p>Las sentencias del TS de enero-octubre 2025 han cambiado las reglas del juego:</p>
+
+          <div class="argument-grid">
+            <div class="argument-card yellow">
+              <div class="number" style="display:none;"></div>
+              <h4>El Ministerio ya NO fija plantilla</h4>
+              <p>
+                El TS establece que la autoridad gubernativa <strong>no puede</strong> determinar
+                el número exacto de trabajadores ni basarse en informes de la empresa para hacerlo.
+              </p>
+            </div>
+            <div class="argument-card blue">
+              <div class="number" style="display:none;"></div>
+              <h4>La empresa sin "aprobación" ministerial</h4>
+              <p>
+                Ahora la empresa tiene <strong>libertad total</strong> para determinar qué trabajadores
+                son SSMM, pero <strong>sin el respaldo</strong> de un anexo ministerial.
+              </p>
+            </div>
+            <div class="argument-card orange">
+              <div class="number" style="display:none;"></div>
+              <h4>Mayor responsabilidad empresarial</h4>
+              <p>
+                ¿Cómo justifica la empresa la necesidad de personal? <strong>Con el listado de
+                  servicios concretos.</strong> Sin ese listado, la designación es injustificable.
+              </p>
+            </div>
+          </div>
+
+          <p style="margin-top: var(--spacing-md);">
+            <strong>Tu argumento:</strong> Si la empresa no entrega el listado de servicios protegidos,
+            no puede justificar por qué te ha designado como SSMM. La designación es <strong>impugnable</strong>.
+          </p>
+        </div>
       </div>
 
       <div class="info-box" style="margin-top: var(--spacing-xl);">
@@ -295,10 +391,12 @@
           <strong>Da igual si la resolución usa palabras vagas.</strong> La lógica jurídica es inamovible:
         </p>
         <ul class="pillar-list">
-          <li>Hay vuelos protegidos y vuelos no protegidos</li>
-          <li>Tienes derecho a no operar los no protegidos</li>
-          <li>Si no te dan la lista, te impiden distinguir, obligándote por precaución a operarlo todo. <strong>Esa
+          <li>Hay servicios protegidos y servicios no protegidos</li>
+          <li>Tienes derecho a no realizar los no protegidos</li>
+          <li>Si no te dan la lista, te impiden distinguir, obligándote por precaución a hacerlo todo. <strong>Esa
               indefensión es lo que demandamos.</strong></li>
+          <li><strong>Desde 2025:</strong> Sin listado de servicios, la empresa no puede justificar tu designación como
+            SSMM. Es <strong>impugnable</strong>.</li>
         </ul>
       </div>
     </div>
@@ -347,10 +445,12 @@
               cumplan los porcentajes dictados por el Ministerio.
             </p>
             <ul class="pillar-list">
-              <li>Sin el listado, es imposible verificar si la empresa cumple la ley</li>
+              <li>Sin el listado, es imposible verificar si la empresa cumple los porcentajes</li>
               <li>No se puede saber si asignan el 100% como si fueran protegidos</li>
               <li>Esta opacidad impide informar a los afiliados de sus obligaciones reales</li>
               <li>Vacía de contenido la función representativa del sindicato</li>
+              <li><strong>Desde 2025:</strong> La empresa debe justificar cada designación <strong>sin amparo
+                  ministerial</strong></li>
             </ul>
           </div>
         </div>
@@ -817,14 +917,253 @@
     </div>
   </section>
 
-  <!-- SECCIÓN 5: CHECKLIST -->
-  <section id="checklist" class="section checklist-section">
+  <!-- SECCIÓN 5: GARANTÍA DE INDEMNIDAD -->
+  <section id="indemnidad" class="section legal-key-section">
     <div class="container">
       <div class="card-number">05</div>
+      <h2>La Garantía de Indemnidad: Tu Escudo Ante Represalias</h2>
+      <p class="section-intro">
+        Mientras defiendes tu derecho de huelga, la <strong>garantía de indemnidad</strong>
+        te protege de cualquier represalia empresarial. Este principio convierte
+        la demanda individual en un <strong>escudo legal</strong>.
+      </p>
+
+      <div class="pillars-grid">
+        <!-- CONCEPTO -->
+        <div class="pillar-card reveal">
+          <span class="pillar-letter">A</span>
+          <div class="pillar-content">
+            <h4>El Concepto</h4>
+            <h3>Protección Constitucional contra Represalias</h3>
+            <p>
+              La garantía de indemnidad (art. 24 CE) protege a cualquier trabajador que reclame
+              sus derechos frente a represalias empresariales. No está en el Estatuto de los
+              Trabajadores, sino en la Disposición Adicional Tercera de la Ley Orgánica 5/2024.
+            </p>
+            <ul class="pillar-list">
+              <li><strong>Si te despiden</strong> tras reclamar: despido NULO</li>
+              <li><strong>Si te sancionan:</strong> sanción NULA</li>
+              <li><strong>Si te modifican condiciones:</strong> modificación NULA</li>
+              <li><strong>Protección extendida:</strong> A tu cónyuge/pareja/familiares
+                que trabajen en la misma empresa (Ley 5/2024)</li>
+            </ul>
+          </div>
+        </div>
+
+        <!-- VENTAJA PROCESAL -->
+        <div class="pillar-card reveal" style="border: 2px solid var(--color-accent-gold);">
+          <span class="pillar-letter">★</span>
+          <div class="pillar-content">
+            <h4>Ventaja Procesal</h4>
+            <h3>Demanda Individual como Escudo Personal</h3>
+            <p>
+              Cuando el sindicato denuncia colectivamente, <strong>TÚ no tienes una
+                reclamación propia documentada</strong>. Si la empresa te despide,
+              es difícil probar el nexo causal.
+            </p>
+            <div class="quote-card" style="margin: var(--spacing-md) 0;">
+              <p style="font-size: 1rem;">
+                Cuando TÚ demandas individualmente, tu reclamación queda
+                <strong>registrada a tu nombre</strong>. Si la empresa te despide
+                después de TU demanda, el nexo causal es evidente.
+              </p>
+            </div>
+            <p>
+              <strong>Resultado:</strong> La demanda plural (cada trabajador demandando
+              individualmente en un solo procedimiento) no solo multiplica las
+              indemnizaciones, sino que <strong>activa un escudo personal</strong>
+              para cada demandante.
+            </p>
+          </div>
+        </div>
+
+        <!-- CONSECUENCIAS -->
+        <div class="pillar-card reveal">
+          <span class="pillar-letter">B</span>
+          <div class="pillar-content">
+            <h4>Consecuencias para la Empresa</h4>
+            <h3>Nulidad + Indemnización + Sanción LISOS</h3>
+            <ul class="pillar-list">
+              <li><strong>Despido NULO:</strong> Readmisión obligatoria + salarios
+                de tramitación</li>
+              <li><strong>Indemnización:</strong> 3.000€ - 10.000€+ por daños morales
+                (sin tope fijo, proporcional al daño)</li>
+              <li><strong>Sanción LISOS:</strong> 7.501€ - 225.018€ por infracción
+                muy grave (art. 8.12 y 40.1.c LISOS)</li>
+            </ul>
+            <p style="margin-top: var(--spacing-md);">
+              La jurisprudencia enfatiza la <strong>doble función</strong>:
+              resarcir al trabajador y <strong>disuadir</strong> a la empresa
+              de futuras represalias.
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <!-- JURISPRUDENCIA DESPLEGABLE -->
+      <div class="info-box" style="margin-top: var(--spacing-xl);">
+        <details class="phase-toggle">
+          <summary>
+            <div class="info-box-header" style="cursor: pointer;">
+              <h3>Jurisprudencia sobre Garantía de Indemnidad (Click para expandir)</h3>
+            </div>
+          </summary>
+          <div style="padding: var(--spacing-md);">
+
+            <!-- Tribunal Constitucional -->
+            <h4 style="color: var(--color-accent-gold); margin-top: var(--spacing-md);">
+              Tribunal Constitucional
+            </h4>
+            <div class="sentence-card" style="margin-bottom: var(--spacing-md);">
+              <div class="sentence-header">
+                <h3 class="sentence-title">STC 148/2025 (Caso Elecnor)</h3>
+                <span class="sentence-badge tc">TC</span>
+              </div>
+              <p><strong>Fecha:</strong> 09/09/2025</p>
+              <p class="sentence-quote">
+                Ampliación histórica: la garantía cubre reclamaciones ante el comité
+                de empresa o representación legal, no solo acciones judiciales.
+                Declaró nulo un despido vinculado a Elecnor. Primera vez que el TC
+                reconoce expresamente esta extensión.
+              </p>
+            </div>
+
+            <!-- Tribunal Supremo -->
+            <h4 style="color: var(--color-accent-gold); margin-top: var(--spacing-lg);">
+              Tribunal Supremo
+            </h4>
+            <div class="sentence-card" style="margin-bottom: var(--spacing-md);">
+              <div class="sentence-header">
+                <h3 class="sentence-title">STS 1359/2024</h3>
+                <span class="sentence-badge ts">TS</span>
+              </div>
+              <p><strong>Fecha:</strong> 20/12/2024</p>
+              <p class="sentence-quote">
+                La garantía de indemnidad no solo protege acciones judiciales,
+                sino también reclamaciones internas ante la empresa. Doctrina
+                fundamental para activar protección sin demanda formal.
+              </p>
+            </div>
+            <div class="sentence-card" style="margin-bottom: var(--spacing-md);">
+              <div class="sentence-header">
+                <h3 class="sentence-title">STS 15/11/2022 (rec. 2645/2021)</h3>
+                <span class="sentence-badge ts">TS</span>
+              </div>
+              <p><strong>Fecha:</strong> 15/11/2022</p>
+              <p class="sentence-quote">
+                El no reconocimiento de categoría profesional puede constituir
+                represalia si existe conexión temporal con el ejercicio de derechos.
+                Establece doctrina sobre el nexo causal en represalias "sutiles".
+              </p>
+            </div>
+
+            <!-- TSJ -->
+            <h4 style="color: var(--color-accent-gold); margin-top: var(--spacing-lg);">
+              Tribunales Superiores de Justicia
+            </h4>
+            <div class="sentence-card" style="margin-bottom: var(--spacing-md);">
+              <div class="sentence-header">
+                <h3 class="sentence-title">STSJ País Vasco 3812/2025</h3>
+                <span class="sentence-badge tsj">TSJ</span>
+              </div>
+              <p><strong>Fecha:</strong> 11/11/2025 | <strong>Indemnización:</strong> 10.000€</p>
+              <p class="sentence-quote">
+                Vulneración por represalia tras reclamaciones laborales.
+                Fija indemnización de 10.000€ por daños morales (próximo al mínimo LISOS).
+                Ponente: J.F. Lajo González.
+              </p>
+            </div>
+            <div class="sentence-card" style="margin-bottom: var(--spacing-md);">
+              <div class="sentence-header">
+                <h3 class="sentence-title">STSJ Andalucía 17803/2025</h3>
+                <span class="sentence-badge tsj">TSJ</span>
+              </div>
+              <p><strong>Fecha:</strong> 05/11/2025 | <strong>Indemnización:</strong> 3.000€</p>
+              <p class="sentence-quote">
+                Nulidad de modificación sustancial (supresión de coche, laptop
+                y móvil) por vulneración de DDFF. Revoca instancia.
+                Ponente: M.E. Díaz Alonso.
+              </p>
+            </div>
+            <div class="sentence-card" style="margin-bottom: var(--spacing-md);">
+              <div class="sentence-header">
+                <h3 class="sentence-title">STSJ Madrid 7793/2025</h3>
+                <span class="sentence-badge tsj">TSJ</span>
+              </div>
+              <p><strong>Fecha:</strong> 05/06/2025</p>
+              <p class="sentence-quote">
+                Interacción con Ley 2/2023 de protección al informante.
+                Analiza prohibición de represalias (arts. 35-39). Relevante
+                para denuncias internas en contexto de huelga.
+              </p>
+            </div>
+            <div class="sentence-card" style="margin-bottom: var(--spacing-md);">
+              <div class="sentence-header">
+                <h3 class="sentence-title">Sentencia Juzgado Social Melilla 204/2025</h3>
+                <span class="sentence-badge an">JS</span>
+              </div>
+              <p><strong>Indemnización:</strong> 90.195€</p>
+              <p class="sentence-quote">
+                Despido nulo con extinción indemnizada por impagos salariales.
+                Ejemplo de cuantías altas cuando concurren múltiples vulneraciones
+                (garantía de indemnidad + derechos económicos).
+              </p>
+            </div>
+
+            <!-- Legislación -->
+            <h4 style="color: var(--color-accent-gold); margin-top: var(--spacing-lg);">
+              Legislación Clave
+            </h4>
+            <div class="sentence-card" style="margin-bottom: var(--spacing-md);">
+              <div class="sentence-header">
+                <h3 class="sentence-title">Ley Orgánica 5/2024 (Derecho de Defensa)</h3>
+                <span class="sentence-badge ts">LO</span>
+              </div>
+              <p><strong>Vigencia:</strong> Desde 04/12/2024 (BOE-A-2024-23630)</p>
+              <p class="sentence-quote">
+                Disposición Adicional Tercera: extiende protección a cónyuges,
+                parejas de hecho y parientes hasta 2° grado que trabajen en
+                la misma empresa, aunque no hayan reclamado directamente.
+                Blindaje familiar.
+              </p>
+            </div>
+
+          </div>
+        </details>
+      </div>
+
+      <!-- BOX RESUMEN -->
+      <div class="info-box highlight" style="margin-top: var(--spacing-xl);">
+        <div class="info-box-header">
+          <h3>Conclusión: Doble Protección</h3>
+        </div>
+        <p>
+          Al demandar individualmente por vulneración del derecho de huelga:
+        </p>
+        <ul class="pillar-list">
+          <li><strong>Obtienes indemnización disuasoria</strong> (hasta 150.000€ por persona)</li>
+          <li><strong>Activas tu escudo personal</strong> de garantía de indemnidad</li>
+          <li><strong>Cualquier represalia posterior</strong> será automáticamente NULA</li>
+          <li><strong>Tu familia también está protegida</strong> (Ley 5/2024)</li>
+        </ul>
+        <p style="margin-top: var(--spacing-md);">
+          <strong>Doble beneficio estratégico:</strong> defiendes tus derechos Y quedas blindado
+          contra represalias.
+        </p>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- SECCIÓN 6: CHECKLIST -->
+  <section id="checklist" class="section checklist-section">
+    <div class="container">
+      <div class="card-number">06</div>
       <h2>Lista de Verificación Exhaustiva (Checklist)</h2>
       <p class="section-intro">
-        El objetivo es demostrar que la empresa no informó de qué vuelos eran servicios mínimos,
-        obligando de facto a trabajar al 100% por miedo a represalias o negligencia.
+        El objetivo es demostrar que la empresa no informó de qué servicios eran protegidos,
+        obligando de facto a trabajar al 100% por miedo a represalias. <strong>Desde 2025:</strong> también
+        demostrar que no justificó las designaciones de SSMM.
       </p>
 
       <div class="phase-timeline">
@@ -850,13 +1189,15 @@
                 <li>
                   <strong>Primer Email Formal de Solicitud</strong>
                   <em>Destinatarios:</em> Dirección de RRHH, Jefe de Operaciones y Dirección General.<br>
-                  <em>Asunto:</em> "Solicitud urgente de listado de vuelos protegidos y asignación de Servicios
+                  <em>Asunto:</em> "Solicitud urgente de listado de servicios protegidos y asignación de Servicios
                   Mínimos".<br>
                   <em>Contenido imprescindible a pedir:</em>
                   <ul>
-                    <li>Listado concreto de vuelos protegidos (números de vuelo, hora y destino)</li>
-                    <li>Listado total de vuelos programados para esos días</li>
+                    <li>Listado concreto de servicios protegidos (identificación, hora y destino)</li>
+                    <li>Listado total de servicios programados para esos días</li>
                     <li>Listado de trabajadores asignados a servicios mínimos y su turno específico</li>
+                    <li><strong>[2025]</strong> Justificación de cada designación: qué servicio protegido cubre cada
+                      trabajador</li>
                   </ul>
                 </li>
                 <li>
@@ -884,17 +1225,22 @@
               <ul class="checklist-items">
                 <li>
                   <strong>Segundo Email ante el silencio [Día -2]</strong>
-                  Si la empresa dice que "no elabora esa información" o remite al sistema automático (ej. SACTA), enviar
+                  Si la empresa dice que "no elabora esa información" o remite al sistema automático, enviar
                   respuesta inmediata.<br>
-                  <em>Argumento a escribir:</em> "Sin el listado de vuelos protegidos, es imposible distinguir qué
+                  <em>Argumento a escribir:</em> "Sin el listado de servicios protegidos, es imposible distinguir qué
                   operaciones son servicio esencial y cuáles no. Esto nos genera inseguridad jurídica y nos impide
-                  ejercer el derecho a huelga."
+                  ejercer el derecho a huelga."<br>
+                  <strong>[2025]</strong> Añadir: "Según jurisprudencia TS 2025, la empresa debe justificar cada
+                  designación
+                  de SSMM vinculándola a servicios concretos. Sin esa justificación, la designación es impugnable."
                 </li>
                 <li>
                   <strong>Emails Individuales de los Trabajadores [Día -1]</strong>
                   Cada trabajador asignado a servicios mínimos debe enviar un email individual a RRHH preguntando:<br>
-                  <em>"¿Cuáles son los vuelos específicos que tengo asignados que se consideran protegidos?"</em><br>
-                  <strong>Objetivo:</strong> Demostrar que la incertidumbre era generalizada.
+                  <em>"¿Cuáles son los servicios específicos que tengo asignados que se consideran protegidos?
+                    ¿Cómo se justifica mi designación como SSMM?"</em><br>
+                  <strong>Objetivo:</strong> Demostrar que la incertidumbre era generalizada y que la empresa no
+                  justificó.
                 </li>
               </ul>
             </div>
@@ -916,14 +1262,14 @@
               <ul class="checklist-items">
                 <li>
                   <strong>Captura de Pantallas/Fotos</strong>
-                  Fotografiar la pantalla del sistema de gestión donde se vea que todos los vuelos aparecen sin
+                  Fotografiar la pantalla del sistema de gestión donde se vea que todos los servicios aparecen sin
                   distinción de "protegido/no protegido".
                 </li>
                 <li>
                   <strong>Grabación de Comunicaciones</strong>
-                  Si hay interacción verbal con supervisores, preguntar: "¿Tengo que atender este vuelo? ¿Es
+                  Si hay interacción verbal con supervisores, preguntar: "¿Tengo que atender este servicio? ¿Es
                   protegido?".<br>
-                  Registrar si la respuesta es una orden genérica de "atender todo el tráfico".
+                  Registrar si la respuesta es una orden genérica de "atender todo".
                 </li>
                 <li>
                   <strong>Recopilación de Prensa</strong>
@@ -949,8 +1295,9 @@
               <p>Demostrar con datos matemáticos que no se respetaron los porcentajes.</p>
               <ul class="checklist-items">
                 <li>
-                  <strong>Comparativa de Vuelos</strong>
-                  Descargar datos de vuelos operados (AENA, FlightRadar). Comparar con el mismo día del año
+                  <strong>Comparativa de Servicios</strong>
+                  Descargar datos de servicios operados (AENA, FlightRadar, registros internos). Comparar con el mismo
+                  día del año
                   anterior.<br>
                   <strong>Cálculo clave:</strong> Si la resolución protegía el 58% pero se operó el 99%, la prueba es
                   irrefutable.
@@ -959,6 +1306,11 @@
                   <strong>Solicitar Actas de Inspección [Día +5]</strong>
                   Si acudió la Inspección de Trabajo, solicitar el acta. Si constatan que "no se facilitó información al
                   Comité de Huelga", es prueba de alto valor.
+                </li>
+                <li>
+                  <strong>[2025] Verificar justificación de designaciones</strong>
+                  Solicitar a la empresa la documentación que acredite cómo justificó cada designación de SSMM.
+                  Si no existe, es prueba de arbitrariedad.
                 </li>
               </ul>
             </div>
@@ -1020,6 +1372,7 @@
     </div>
   </footer>
 
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js"></script>
   <script src="script.js"></script>
 </body>
 

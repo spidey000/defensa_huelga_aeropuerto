@@ -1,0 +1,567 @@
+JURISPRUDENCIA
+
+Roj: STS 1797/2023 - ECLI:ES:TS:2023:1797
+Id Cendoj: 28079140012023100281
+Órgano: Tribunal Supremo. Sala de lo Social
+Sede: Madrid
+Sección: 1
+Fecha: 25/04/2023
+Nº de Recurso: 334/2021
+Nº de Resolución: 294/2023
+Procedimiento: Recurso de casación
+Ponente: JUAN MOLINS GARCIA-ATANCE
+Tipo de Resolución: Sentencia
+Resoluciones del caso: SAN 3309/2021,
+
+STS 1797/2023
+
+CASACION núm.: 334/2021
+Ponente: Excmo. Sr. D. Juan Molins García-Atance
+Letrada de la Administración de Justicia: Ilma. Sra. Dña. Sagrario Plaza Golvano
+TRIBUNAL SUPREMO
+Sala de lo Social
+Sentencia núm. 294/2023
+Excmos. Sres. y Excma. Sra.
+D. Antonio V. Sempere Navarro
+D. Ángel Blasco Pellicer
+D.ª Concepción Rosario Ureste García
+D. Juan Molins García-Atance
+En Madrid, a 25 de abril de 2023.
+Esta Sala ha visto el recurso de casación ordinario interpuesto por el Letrado D. Alfredo Aspra Rodríguez, en
+nombre y representación de Banco Bilbao Vizcaya Argentaria SA contra la sentencia dictada por la Sala de
+lo Social de la Audiencia Nacional, en fecha 19 de julio de 2021, procedimiento 530/2020, en actuaciones
+seguidas en virtud de demanda sobre tutela del derecho de libertad sindical a instancia de Confederación
+General del Trabajo (CGT) contra Banco Bilbao Vizcaya Argentaria SA y contra Opplus, Operaciones y Servicios
+SA, habiendo sido parte el Ministerio Fiscal.
+Ha comparecido en concepto de recurrido la Confederación General del Trabajo (CGT), representada y asistida
+por el Letrado D. Luis Miguel Sanguino Gómez y el Ministerio Fiscal.
+Ha sido ponente el Excmo. Sr. D. Juan Molins García-Atance.
+ANTECEDENTES DE HECHO
+PRIMERO.- Por la representación letrada de la Confederación General del Trabajo (CGT), se presentó demanda
+sobre tutela del derecho de libertad sindical del que conoció la Sala de lo Social de la Audiencia Nacional, y
+en la que tras exponer los hechos y motivos que estimó de aplicación terminó suplicando se dictara sentencia
+por la que se declare: "la existencia de la vulneración del derecho a la libertad sindical denunciada, y condene
+a estar y pasar por tal declaración, ordenando el cese inmediato de su proceder y a que remita a toda la
+
+1
+
+JURISPRUDENCIA
+plantilla de la empresa, por los cauces recogidos en el "Acuerdo Colectivo para la Regulación de los Medios
+necesarios para el ejercicio de la función de la Representación Sindical en la Empresa", el Fallo de la Sentencia,
+así como la carátula y la comunicación de esta parte de fecha 16 de septiembre de 2020, además de condenar a
+"BANCO BILBAO VIZCAYA ARGENTARIA, S.A." a abonar a la organización sindical demandante, en concepto de
+indemnización por los daños morales y perjuicios sufridos, la cantidad de 3.125 €, y demás pronunciamientos
+que en Derecho procedan".
+SEGUNDO.- Admitida a trámite la demanda se celebró el acto del juicio, con la intervención de las partes y el
+resultado que se reﬂeja en el acta que obra unida a las actuaciones. Recibido el pleito a prueba se practicaron
+las propuestas por las partes y declaradas pertinentes.
+TERCERO.- En fecha 19 de julio de 2021 se dictó sentencia por la Sala de lo Social de la Audiencia Nacional,
+en la que consta el siguiente fallo: "Estimamos la demanda formulada por DON LUIS MIGUEL SANGUINO
+GÓMEZ, Letrado del I.C.A.M., actuando en nombre y representación del sindicato CONFEDERACIÓN GENERAL
+DEL TRABAJO, contra BANCO BILBAO VIZCAYA ARGENTARIA, S.A., y ampliada a instancias de la Sala
+contra la empresa OPPLUS, OPERACIONES Y SERVICIOS, S.A., sobre TUTELA DEL DERECHO FUNDAMENTAL
+DE LIBERTAD SINDICAL, siendo parte el MINISTERIO FISCAL, declaramos la existencia de la vulneración
+del derecho a la libertad sindical denunciada en la demanda, condenamos a BANCO BILBAO VIZCAYA
+ARGENTARIA, S.A a estar y pasar por tal declaración, ordenamos el cese inmediato de su proceder y que remita
+a toda la plantilla de la empresa, por los cauces recogidos en el "Acuerdo Colectivo para la Regulación de los
+Medios necesarios para el ejercicio de la función de la Representación Sindical en la Empresa", el Fallo de la
+Sentencia, así como la carátula y la comunicación de CGT de fecha 16 de septiembre de 2020, condenamos a
+BANCO BILBAO VIZCAYA ARGENTARIA, S.A. a abonar a la organización sindical demandante, en concepto de
+indemnización por los daños morales y perjuicios sufridos, la cantidad de 3.125 €. y absolvemos a OPPLUS,
+OPERACIONES Y SERVICIOS, S.A., de las pretensiones de demanda".
+CUARTO.- En dicha sentencia se declararon probados los siguientes hechos:
+"PRIMERO. - El Sindicato demandante está implantado en el ámbito de la empresa Banco Bilbao Vizcaya
+Argentaria S.A., ostentando un porcentaje del 17,6 % en los órganos de representación unitaria a nivel nacional,
+fruto de las últimas elecciones sindicales celebradas el pasado mes de febrero de 2019 en la que la CGT
+obtuvo un total de 105 miembros en los distintos Comités de Empresa. Por otro lado, la organización sindical
+demandante, tiene conformada Sección Sindical de Empresa a nivel estatal.
+El porcentaje de representatividad de los diferentes Sindicatos con presencia en los diferentes órganos de
+representación unitaria del BBVA en atención a los resultados de las últimas elecciones sindicales celebradas
+en los diferentes centros de trabajo durante el año 2019 es el siguiente: CCOO: 34,67%, UGT: 16,58%, ACB:
+21,44%, CGT: 17,59%, ELA: 1,68%, LAB: 0,17% CIG: 2,85%, SCAT: 0,34% y SEC: 4,69%- (hecho pacíﬁco y SAN
+17-6-2020, proc.62/2020)
+SEGUNDO. - Por Resolución de 1 de junio de 2016, de la Dirección General de Empleo, se registra y publica
+el Convenio colectivo del sector de la banca que fue suscrito, con fecha 19 de abril de 2016, de una parte,
+por la Asociación Española de Banca (AEB), en representación de las empresas del sector, y de otra por la
+Federación de Servicios Financieros y Administrativos de CC.OO. y la Federación Estatal de Servicios de UGT,
+en representación de los trabajadores afectados. (BOE 15 de junio de 2016) (Descripción 34)
+BBVA ha suscrito con CCOO, UGT, ACB y CGT, el 18-9-2014 un Acuerdo colectivo de medios para el desarrollo
+de la representación sindical en la empresa, cuyo contenido obra al descriptor 33 y damos íntegramente
+por reproducido. TERCERO. - Dentro del denominado por la empresa en su día "Plan de Transformación e
+Innovación del Grupo BBVA", se creó un "Centro de Operaciones de Alto Valor", constituyéndose la mercantil
+"OP Plus, Operaciones y Servicios, S.A." (en adelante OP Plus), empresa 100% capital de BBVA, S.A. e integrada
+igualmente en el Grupo BBVA, que forma parte del grupo mercantil.
+El centro de trabajo de OP Plus se encuentra en la provincia de Málaga, concretamente en el denominado
+"Parque Tecnológico de Andalucía", y con una plantilla aproximada de 2000 trabajadores, centro de trabajo que
+tiene constituida la correspondiente representación de los trabajadores, conformada por Comisiones Obreras,
+la Unión General de Trabajadores y la Confederación General del Trabajo, siendo ésta última la mayoritaria.
+(hecho conforme)
+la Sección Sindical de CGT en OPPLUS se constituyó en acta de 18 de julio de 2019. (Descriptor 61)
+Banco Bilbao Vizcaya Argentaria, S.A, como cliente, y OP Plus Operaciones y Servicios, S.A, como proveedor,
+suscribieron los acuerdos marco y los contratos especíﬁcos para la prestación de servicios que obran a los
+descriptores 42 y 58, cuyo contenido se dan por reproducidos.
+
+2
+
+JURISPRUDENCIA
+El 10 de octubre de 2012 Banco Bilbao Vizcaya Argentaria S.A. como cliente y OP Plus Operaciones y Servicios,
+S.A, como proveedor, suscribieron un contrato especíﬁco relativo a la prestación de servicios operativos y de
+consultoría y un anexo que obran unidos a los descriptores 59 y 60, cuyos contenidos, se da íntegramente por
+reproducidos.
+Mediante sentencia dictada en fecha 9 de abril de 2010, por el Juzgado de lo Social n° 9 de Málaga , se
+desestimó la demanda de conﬂicto colectivo interpuesta por el sindicato CGT en la que se solicitaba que
+se declarara el derecho de los trabajadores de la empresa OP Plus Operaciones y Servicios, S.A. a pasar
+a la plantilla de BBVA S.A. por la existencia de cesión ilegal de mano de obra, y, subsidiariamente que se
+declarara de aplicación a los trabajadores de OP Plus Operaciones y Servicios, S.A. el convenio colectivo de
+banca privada. Interpuesto recurso de suplicación fue desestimado mediante sentencia del Tribunal Superior
+de Justicia con sede en Málaga de fecha 22 de septiembre de 2011 - documento n° 1 del ramo de prueba de
+OP Plus Operaciones y Servicios, S.A. y n° 12 del ramo de prueba de la codemandada BBVA, S.A.-.
+Mediante sentencia dictada en fecha 5 de diciembre de 2012, por el Juzgado de lo Social n° 8 de Málaga,
+se estimó parcialmente la demanda de conﬂicto colectivo presentada por los sindicatos UGT, CCOO y CGT,
+declarando la nulidad de la modiﬁcación sustancial de condiciones laborales llevada efecto por la empresa
+OP Plus Operaciones y Servicios, S.A. el 13 de mayo de 2010. Interpuesto recurso de suplicación fue estimado
+mediante sentencia del Tribunal Superior de Justicia de Andalucía con sede en Málaga de fecha 12 de
+septiembre de 2013, que revocando la sentencia recurrida desestimó las demandas por considerar que no
+había quedado acreditada la modiﬁcación sustancial de condiciones de trabajo de carácter colectivo.
+El 25 de abril de 2018 se dictó sentencia por la sala de lo social del TSJ de Andalucía ( Málaga) en el recurso
+de suplicación 330/2018 por la que se conﬁrma la sentencia del juzgado de lo social número 10 de Málaga
+dictada en el procedimiento nº 526/2017, sobre despido y vulneración de derechos fundamentales en la que se
+absuelve a OP Plus Operaciones y Servicios, S.A, y a Banco Bilbao Vizcaya S.A. de las pretensiones deducidas
+en su contra, desestimando la existencia de grupo patológico de todas las empresas demandadas. (descriptor
+54)
+En fecha 22 de enero de 2016 Banco Bilbao Vizcaya Argentaria, S.A, como cliente, y OP Plus Operaciones y
+Servicios, S.A, como proveedor, suscribieron contrato especíﬁco para la prestación de servicios de soporte
+operativo y contable de fondos de titulización. En la misma fecha el proveedor comunicó al cliente la
+segregación parcial de la unidad económica de soporte operativo y contable, en virtud de la cual Qipro
+Soluciones, S.L. adquirió por sucesión universal todos los derechos y obligaciones de OP Plus Operaciones
+y Servicios, S.A. en relación con dicha unidad económica. En fecha 9 de junio de 2016 Banco Bilbao Vizcaya
+Argentaria, S.A, como cliente, y Qipro Soluciones, S.L, como proveedor, suscribieron Adenda al contrato de
+prestación de servicios de soporte operativo y contable de fondos de titulización de fecha 22 de enero de 2016
+entre Banco Bilbao Vizcaya Argentaria, S.A. y Qipro Soluciones, S.L.U. (anteriormente OP Plus Operaciones y
+Servicios, S.A.). (descriptor 54, que se da por reproducido)
+CUARTO. - Para el 18 de septiembre pasado, la representación unitaria en OP Plus convocó huelga de 24 horas
+de duración, motivada por la orden de aquella empresa de cesar el teletrabajo para 1.200 trabajadores, que
+deberían incorporarse simultáneamente al centro de trabajo sin, en opinión de aquella representación de los
+trabajadores, cumplirse las condiciones que garantizaran la seguridad y salud en el trabajo a la plantilla.
+OPPLUS Operaciones y Servicios S.A., a 4-junio-2021 tiene una plantilla media de 2110 empleados; tiene Comité
+de empresa siendo CGT el sindicato mayoritario y hay Sección Sindical de CGT.
+El 30 de marzo de 2021 se suscribió un acuerdo de medios para el desarrollo de la acción sindical ﬁrmado
+entre OPPLUS Operaciones y Servicios S.A. y la sección sindical de CGT en OPPLUS. (descriptor 61, 62, 64 y 67)
+QUINTO. -La Sección Sindical de CGT en BBV editó una carátula y una circular titulada "jornada de huelga en
+OP Plus" en los siguientes términos: "Compañera/o. Te adjuntamos circular con información sobre la huelga
+convocada en OP Plus por unanimidad por el Comité de empresa del que CGT es el sindicato mayoritario.
+Todo nuestro apoyo a esa plantilla en su ajustada reivindicación (la que ya opera en algunas áreas
+de BBVA), y esperamos que consigan sus objetivos, así como que BBVA se avenga a negociar con la
+representación sindical del Banco la extensión de esas medidas a otras áreas. Te recomendamos su lectura y
+te mantendremos informada/O. 16 de septiembre de 2020. (descriptores 23)
+La circular por su parte tenía el siguiente tenor literal: "
+(...) El Comité de Empresa de OP PLUS (ﬁlial de BBVA) por unanimidad de los tres Sindicatos que lo integran
+-CGT, UGT y CCOO- ha convocado una huelga de 24 horas en todos sus servicios para el próximo viernes 18
+de septiembre.
+
+3
+
+JURISPRUDENCIA
+El motivo de la misma es la negativa de la dirección a su propuesta de retrasar la incorporación a sus centros
+de trabajo de 1.200 personas y permitirles continuar trabajando en Remoto. La Representación Legal de la
+plantilla de OP PLUS considera que no se dan las condiciones en los centros para que toda la plantilla esté
+simultáneamente en modo presencial. Principalmente, falta espacio para mantener la distancia de seguridad.
+Pudiendo trabajar en Remoto, han propuesto la alternancia entre trabajo presencial y remoto (como se está
+haciendo en otras empresas del grupo BBVA) como la mejor forma de salvaguardar la salud de la plantilla y sus
+familias a la vez que sostener las funciones de la empresa, sin que OP PLUS se haya avenido a considerarlo.
+Curiosamente, en BBVA, como sabéis, tanto en los Servicios Centrales, como en los Centros Territoriales y
+Corporativos del Banco sí que la incorporación se hace de modo rotatorio para disminuir la presencia en los
+centros de trabajo.
+En BBVA hemos solicitado una reunión para proponer la extensión de esta medida a todas aquellas
+áreas cuyas funciones lo permitan...Unidades Territoriales, BBVA Contigo, CSE. incluso, con alguna medida
+complementaria, a la Red de Oﬁcinas, todo ello, tanto por la situación existente actual como en previsión de
+un empeoramiento de la misma (evolución tras apertura de colegios, etc.).
+Os queremos trasladar esta convocatoria para que entendáis lo que está ocurriendo en una empresa ﬁlial de
+BBVA de la que depende buena parte de la operativa del Banco y con la cual nos relacionamos diariamente
+a todos los niveles. Tengamos por tanto en cuenta tal convocatoria, el derecho básico que les corresponde
+y respetemos, como es nuestra obligación legal, su desarrollo tanto en lo que nos pueda afectar como, bajo
+ningún concepto, asumir tareas propias de OP PLUS en esa jornada.
+Toda nuestra solidaridad con la plantilla de OP PLUS y su Representación legal. 16 de septiembre de 2020.
+(descriptor 24 y 35)
+SEXTO. - Esta circular fue remitida al buzón habilitado al efecto por el BBVA para que, a su vez, fuera remitida a
+las direcciones de correo corporativas de toda la plantilla como un envío más, dentro de los cauces y requisitos
+establecidos en el apartado Noveno del "Acuerdo Colectivo para la Regulación de los Medios Necesarios para
+el Ejercicio de la Representación Sindical en la Empresa", y del artículo 62 del Convenio Colectivo.
+La empresa demandada se negó a mandar la circular de la organización sindical demandante, aduciendo que
+la Sección Estatal de CGT en BBVA no tiene representación en OP Plus y que las comunicaciones enviadas
+dentro de BBVA se deben atener a comunicaciones de ámbito estrictamente laboral dentro de BBVA, S.A. Ante
+esta situación se cruzaron los siguientes correos electrónicos:
+"(...) De: Constantino Date: mié., 16 sept. 2020 a las 12:55 Subject: CIRCULAR OP PLUS To: María Antonieta
+, María Teresa Cc: Agustina
+"Buenos días, Tal y como hemos hablado por teléfono, desde CGT queremos mostrar nuestra disconformidad
+con la no difusión de esta circular adjunta entre nuestra plantilla, por cuanto consideramos de interés para la
+misma la situación que viven y el servicio que prestan en nuestro día a día los y las compañeras de OP PLUS."
+Un saludo, Constantino SECR.GRAL CGT......"
+Al anterior mail de CGT, BBVA respondió:
+"...Buenos días Constantino ,
+Como ya les hemos indicado por teléfono, OPPLus tiene sus órganos de representación, no siendo Uds.
+representantes legales de la plantilla de OPPLus. Un saludo, María Antonieta Talento y Cultura España
+(...)" (Descriptor 25,36 y 37)
+SEPTIMO. -La circular fue publicada en el tablón virtual de información sindical. (Intranet de CGT BBVA.
+(Descriptor 35 y 74)
+OCTAVO. -El 17-9-2020, se presentó escrito por CGT Ante el Ministerio de Política Territorial y Función Pública
+de desconvocatoria de huelga en la empresa OPPLUS, SOLUCIONES Y SERVICIOS. (descriptor 66)".
+QUINTO.- Contra dicha resolución se interpuso recurso de casación por la representación letrada de Banco
+Bilbao Vizcaya Argentaria SA, siendo admitido a trámite por esta Sala.
+SEXTO.- Impugnado el recurso por la parte recurrida, se emitió informe por el Ministerio Fiscal en el sentido
+de considerar el recurso improcedente. Instruido el Excmo. Sr. Magistrado Ponente, se declararon conclusos
+los autos, señalándose para votación y fallo del presente recurso el día 18 de abril de 2023, en cuya fecha
+tuvo lugar.
+FUNDAMENTOS DE DERECHO
+
+4
+
+JURISPRUDENCIA
+PRIMERO.- 1.- El debate litigioso consiste en dilucidar si el Banco Bilbao Vizcaya Argentaria SA (en adelante
+BBVA) violó la libertad sindical de la Confederación General del Trabajo (en adelante CGT) al negarse a remitir
+una circular del sindicato a las direcciones de correo corporativas de toda la plantilla.
+La sentencia de la Audiencia Nacional 173/2021, de 19 de julio (procedimiento 530/2020) estimó la demanda
+interpuesta por CGT contra el BBVA, declaró la vulneración del derecho a la libertad sindical del actor y condenó
+a la empresa a que remitiera la citada circular y al pago de una indemnización de 3.125 euros.
+2.- La parte demandada interpuso recurso de casación ordinario con seis motivos:
+a) El primero denuncia la infracción del art. 24 de la Constitución en relación con el art. 218 de la Ley de
+Enjuiciamiento Civil (en adelante LEC) y con el art. 97.2 de la Ley Reguladora de la Jurisdicción Social (en
+adelante LRJS). Argumenta que la sentencia recurrida incurre en incongruencia porque no se pronuncia sobre
+las alegaciones relativas a que la modalidad de tutela de derechos fundamentales no es adecuada para
+enjuiciar el litigio y que no se ha vulnerado la libertad sindical porque se trata de un supuesto de legalidad
+ordinaria.
+b) El segundo motivo denuncia la vulneración del art. 178 de la LRJS, manifestando que se ha vulnerado el
+principio de cognición limitada que rige en la modalidad procesal de tutela de derechos fundamentales.
+c) El tercer motivo denuncia la infracción del mismo precepto legal: el art. 178 de la LRJS, y reproduce la
+alegación de que se ha vulnerado el principio de cognición limitada.
+d) El cuarto motivo denuncia la vulneración de los arts. 8.1.c), 8.2.a) y 10.3 de la Ley Orgánica de la Libertad
+Sindical (en adelante LOLS); del art. 64 del Estatuto de los Trabajadores, del art. 28.1 de la Constitución, del
+art. 62 del XXIII Convenio Colectivo de la Banca y del apartado noveno del Acuerdo de Medios.
+Argumenta que la negativa del BBVA a remitir la circular del sindicato CGT no vulneró su libertad sindical.
+e) El quinto motivo denuncia la infracción de los arts. 179.3, 182.1 d) y 183 de la LRJS y del art. 1.101 del
+Código Civil, postulando que se deje sin efecto la condena al pago de la indemnización.
+f) El sexto motivo denuncia la vulneración de los mismos preceptos legales que el quinto, reiterando su solicitud
+de que se deje sin efecto la condena al pago de la indemnización.
+3.- El sindicato CGT presentó escrito de impugnación del recurso en el que solicita la conﬁrmación de la
+sentencia recurrida.
+El Ministerio Fiscal emitió informe en contra de la estimación del recurso.
+SEGUNDO.- 1.- Debemos examinar conjuntamente los tres primeros motivos del recurso porque en ellos se
+suscitan las mismas cuestiones. En el mismo sentido se pronuncia el Ministerio Público.
+El art. 218.1 de la LEC establece: "Las sentencias deben ser claras, precisas y congruentes con las demandas
+y con las demás pretensiones de las partes, deducidas oportunamente en el pleito". Reiterada doctrina
+jurisprudencial sostiene que "hay que distinguir entre las alegaciones o argumentos aducidos por la parte
+para fundamentar sus peticiones [...] y las auténticas pretensiones en sí mismas consideradas. Respecto a las
+primeras no cabe hablar de incongruencia, pues no es necesario dar una respuesta explícita y pormenorizada
+a todas y cada una de ellas para satisfacer el derecho a la tutela judicial efectiva. La obligación de congruencia
+se impone sólo respecto de las auténticas pretensiones en razón a que cada una de ellas se convierte en
+una "causa petendi" que exige una respuesta concreta" [ sentencia del TS 347/2019, de 8 de mayo (rec.
+42/2018) y las citadas en ella]. Esta distinción encuentra también su apoyo en la doctrina constitucional sobre
+la congruencia, ya que el TC tiene declarado que el artículo 24.1 de la Constitución no garantiza el derecho a
+una respuesta pormenorizada a todas y cada una de las cuestiones planteadas, de manera que "si se resuelven,
+aunque sea genéricamente, las pretensiones no existe incongruencia, pese a que no haya pronunciamiento
+respecto de alegaciones concretas no sustanciales, pues no cabe hablar de denegación de tutela judicial si el
+órgano judicial responde a la pretensión y resuelve el tema planteado, ya que sólo la omisión o falta total de
+respuesta, y no la respuesta genérica o global a la cuestión planteada, entraña vulneración de la tutela judicial
+efectiva" ( sentencia del TC nº 171/2002, de 30 de septiembre, entre otras).
+2.- El TC explica que la incongruencia omisiva tiene relevancia constitucional cuando el órgano judicial
+omite toda consideración sobre una alegación fundamental planteada oportunamente por las partes. Se
+debe distinguir entre las alegaciones que fundamentan las pretensiones y las pretensiones en sí mismas. La
+congruencia referida a las primeras es más rigurosa que las segundas, las cuales no precisan una contestación
+explícita y pormenorizada a todas y cada una de ellas. Pero sí que es obligado no omitir la consideración de
+las alegaciones concretas que resulten sustanciales para el caso y decisivas para el fallo. Esta exigencia se
+
+5
+
+JURISPRUDENCIA
+predica tanto de la parte recurrente como de la recurrida. El Alto Tribunal exige la concurrencia de los requisitos
+siguientes ( sentencia del TC 4/2006, de 16 de enero, y las citadas en ella):
+1) La cuestión debe plantearse en momento procesal oportuno.
+2) Ausencia de respuesta del órgano judicial, lo que no equivale a la falta de respuesta expresa. Ahora bien, la
+respuesta tácita exige que del conjunto de los razonamientos contenidos en la resolución puedan deducirse
+razonablemente los motivos fundamentadores de la misma.
+3) La omisión debe referirse a cuestiones que, de haber sido consideradas en la decisión, hubieran podido
+determinar un fallo distinto al pronunciado.
+3.- La sentencia recurrida no se pronuncia expresamente sobre la inadecuación del procedimiento de tutela
+de derechos fundamentales. Pero su fundamento de derecho cuarto argumenta que el derecho a la libertad
+sindical incluye el derecho de información, que integra el derecho a distribuir información entre los aﬁliados
+al sindicato y la plantilla en general. La sentencia de instancia menciona los arts. 10.3, 8.1.c) y 8.2.a) de la
+LOLS y cita las sentencias del TC 94/1995 y 65/2019 respecto del ﬂujo de información entre el sindicato y los
+trabajadores, que permite el ejercicio de una acción sindical. Además, invoca la sentencia del TC 281/2005, la
+cual estableció que lesiona el derecho a la libertad sindical de los sindicatos la privación de la transmisión de
+noticias de interés sindical a los trabajadores. Por todo ello, declara la vulneración de la libertad sindical de CGT.
+A la vista de los citados argumentos debemos concluir, de conformidad con el Ministerio Fiscal, que la
+sentencia recurrida no incurre en incongruencia omisiva porque razona que la negativa del BBVA a remitir la
+circular a los trabajadores trasciende de la legalidad ordinaria y vulnera el derecho fundamental a la libertad
+sindical de CGT. La consecuencia de ello es que la modalidad procesal de tutela de derechos fundamentales
+es adecuada para conocer de esta pretensión. La sentencia recurrida da una respuesta expresa o tácita a la
+pluralidad de alegaciones efectuadas por la parte demandada, sin incurrir en incongruencia omisiva, lo que
+impide estimar estos tres primeros motivos.
+TERCERO.- 1.- En el cuarto motivo del recurso se alega que no se ha vulnerado la libertad sindical de CGT
+porque el BBVA facilita un tablón a todas las secciones sindicales, las cuales disponen de un tablón de anuncios
+virtual, que constituye el canal de comunicación adecuado. La parte recurrente niega que hubiera una actitud
+obstruccionista de la empresa porque se está aplicando una norma infraconstitucional y porque existió una
+justiﬁcación objetiva y razonada de la negativa del banco.
+2.- El art. 8 de la LOLS dispone:
+"1. Los trabajadores aﬁliados a un sindicato podrán, en el ámbito de la empresa o centro de trabajo:
+[...] c) Recibir la información que le remita su sindicato.
+2. Sin perjuicio de lo que se establezca mediante convenio colectivo, las Secciones Sindicales de los sindicatos
+más representativos y de los que tengan representación en los comités de empresa y en los órganos de
+representación que se establezcan en las Administraciones públicas o cuenten con delegados de personal,
+tendrán los siguientes derechos:
+a) Con la ﬁnalidad de facilitar la difusión de aquellos avisos que puedan interesar a los aﬁliados al sindicato y
+a los trabajadores en general, la empresa pondrá a su disposición un tablón de anuncios que deberá situarse
+en el centro de trabajo y en lugar donde se garantice un adecuado acceso al mismo de los trabajadores [...]".
+3.- La sentencia del TC 281/2005, de 7 de noviembre, explica que la libertad sindical integra también la vertiente
+funcional, que hace referencia al derecho de los sindicatos a ejercer aquellas actividades dirigidas a la defensa,
+protección y promoción de los intereses de los trabajadores: "los sindicatos pueden ostentar derechos o
+facultades adicionales, atribuidos por normas legales o por convenios colectivos, que se añaden a aquel núcleo
+mínimo e indisponible de la libertad sindical. Así el derecho fundamental se integra, no sólo por su contenido
+esencial, sino también por ese contenido adicional y promocional, de modo que los actos contrarios a este
+último son también susceptibles de infringir el art. 28.1 CE [...] las organizaciones sindicales tienen derecho a
+que el empresario asuma las obligaciones y cargas que las normas legales o pactadas o sus previos actos le
+impongan para promocionar la eﬁcacia del derecho de libertad sindical en la empresa (contenido adicional)".
+A continuación, el TC argumenta que, "como expresión de la acción sindical, el derecho a informar a los
+representados, aﬁliados o no, forma parte del contenido esencial del derecho fundamental, puesto que la
+transmisión de noticias de interés sindical, el ﬂujo de información entre el sindicato y los trabajadores, es
+el fundamento de la participación, permite el ejercicio cabal de una acción sindical y propicia el desarrollo
+de la democracia y del pluralismo sindicales. En deﬁnitiva, constituye un "elemento esencial del derecho
+fundamental a la libertad sindical" [...] una expresión central, por tanto, de la acción sindical y, por ello, del
+
+6
+
+JURISPRUDENCIA
+contenido esencial del derecho fundamental." En el mismo sentido se han pronunciado las sentencias del TC
+94/1995, de 19 de junio; 168/1996, de 29 de octubre; y 213/2002, de 11 de noviembre, entre otras.
+En consecuencia, la sentencia del TC 281/2005 sostiene que "la información sindical forma parte del contenido
+esencial del derecho fundamental, que el sindicato puede hacerla efectiva a través de los cauces previstos
+en la ley y también por medio de otros que libremente adopte siempre que respete la normalidad productiva,
+y que el empresario tiene que asumir ciertas cargas tasadas en la Ley y dirigidas a hacer efectivo el hecho
+sindical informativo."
+El Alto Tribunal sienta los criterios siguientes:
+"a) El ﬂujo de la información sindical resultará objetivamente perjudicado si el empleo de los instrumentos
+prácticos o medios materiales que pueden favorecerla es obstruido.
+b) La garantía del contenido esencial del derecho fundamental, consistente en evitar el establecimiento de
+diﬁcultades a su ejercicio más allá de lo razonable, no es ajena al empresario, en la medida en que la actividad
+sindical se desarrolle en el seno de su organización productiva.
+c) Tenga o no un deber de colaboración en la promoción del derecho fundamental que venimos considerando
+conforme a la Ley, los pactos o sus posibles concesiones previas, el empresario tiene en todo caso una
+obligación de no obstaculizar injustiﬁcada o arbitrariamente el ejercicio de dicho derecho.
+El TC niega que sea compatible con el derecho fundamental la negativa empresarial a poner a disposición
+de los sindicatos un instrumento de transmisión empresarial apto y cuyo empleo sindical pueda armonizarse
+con su ﬁnalidad, lo que sucede cuando dicha negativa "no encuentre justiﬁcación en razones productivas
+o en la legítima oposición a asumir obligaciones especíﬁcas y gravosas no impuestas al empresario, pues
+en esa hipótesis de acción meramente negativa el acto de resistencia únicamente daría como resultado la
+obstaculización del ejercicio ﬂuido, eﬁciente y actualizado de las funciones representativas, sin ocasionar, en
+cambio, provecho alguno."
+4.- Las sentencias del TS 329/2016, de 26 abril (rcud 113/2015); 920/2016, de 2 noviembre (rcud 262/2015);
+y 583/2021, de 27 mayo (rcud 151/2019) sostuvieron que Liberbank había vulnerado el derecho de libertad
+sindical por la inicial negativa a publicar en la intranet dos circulares sindicales, cuando la empresa se había
+comprometido a publicar los comunicados sindicales sin ejercer vetos ni controles. La última de las citadas
+sentencias argumenta:
+"el derecho a informar a los representados es contenido esencial del derecho de libertad sindical, tal como
+lo ha determinado la jurisprudencia constitucional [...] el "control previo" por la empresa del contenido de la
+información sindical es "incompatible", con carácter general, con ese derecho a informar que forma parte de
+la libertad sindical."
+En deﬁnitiva, "lo que no es compatible con el derecho fundamental de libertad sindical, y menos todavía con el
+acuerdo alcanzado en conciliación judicial el 27 de noviembre de 2012, es la negativa empresarial, comunicada
+al sindicato en términos inequívocos, a publicar las circulares o comunicados en la redacción remitida por el
+sindicato [...] en el acuerdo conciliatorio de noviembre de 2012, la empresa se comprometió expresamente a
+publicar en la intranet los comunicados sindicales "sin ejercer el veto o control sobre la legalidad de los mismos
+y/o su veracidad o a si exceden de los límites informativos". Como fácilmente se advierte, las respuestas
+de la empresa de 20 de febrero y de 21 de marzo de 2019 fueron un ﬂagrante incumplimiento del acuerdo
+conciliatorio".
+5.- La sentencia del TS 27/2019, de 15 enero (rec. 220/2017) explica que la negativa de la empresa poner
+a disposición de los sindicatos, los instrumentos de transmisión de información existentes en la empresa,
+cuando no está justiﬁcada en razones productivas o ﬁnancieras, lesiona el derecho de libertad sindical, aunque
+constituya una mera resistencia pasiva.
+6.- La sentencia del TS 71/2023, de 25 de enero (rec. 62/2021) compendia la doctrina jurisprudencial sobre el
+derecho de las secciones sindicales a que la empresa les facilite una cuenta de correo electrónico para poder
+comunicarse con la totalidad de la plantilla:
+"es a la empresa a la que corresponde la carga de probar las diﬁcultades, disfunciones, interferencias y costes
+económicos que pueda suponerle el permitir a las secciones sindicales utilizar el correo electrónico como
+mecanismo de comunicación e información con el personal a su servicio. De acreditar esos perjuicios no le
+sería exigible cumplir con tal obligación, pero carece de argumento válido para negarse sin existir problemas
+asociados a la utilización del sistema de correo electrónico ya instaurado. No se está ante la exigencia de la
+creación o desarrollo de una aplicación informática con esta ﬁnalidad, sino tan solo, de la pacíﬁca y compatible
+utilización de la ya preexistente.
+
+7
+
+JURISPRUDENCIA
+En el bien entendido que en caso de conﬂicto entre el uso empresarial y el sindical debe primar el interés de la
+empresa por tratarse de una herramienta conﬁgurada para la producción; y que el empleador puede adoptar
+las medidas y disponer lo necesario para regular y acomodar su utilización a las necesidades empresariales,
+armonizando unos y otros intereses."
+CUARTO.- 1.- El art. 62.2 del XXIII Convenio Colectivo del sector de la Banca dispone:
+"Para facilitar la comunicación, las Empresas proporcionarán una cuenta especíﬁca de correo corporativo a
+cada una de las secciones sindicales de Empresa legalmente constituidas (L.O.L.S.), de los Sindicatos que
+ostenten la condición de más representativos en el ámbito sectorial, si así lo solicitan.
+En el ámbito de cada Empresa se determinará por acuerdo entre ésta y la representación sindical, los términos
+y condiciones de los envíos relativos a los correos que tengan por destinatarios la totalidad de la plantilla o
+un colectivo de trabajadores."
+2.- El apartado noveno del Acuerdo colectivo para la regulación de los medios necesarios para el ejercicio de
+la función de la representación sindical en la empresa de 18 de septiembre de 2014, establece:
+"CORREO ELECTRÓNICO [...] cada sección sindical de Empresa legalmente constituida, podrá proceder al envío
+de comunicaciones al conjunto de los trabajadores de la empresa ajustándose a los requisitos que se citan
+a continuación [...]
+a) La información a transmitir deberá tener contenido estrictamente laboral y relacionado directamente con
+el ejercicio de las funciones de representación legal de los trabajadores, sin que pueda utilizarse para otros
+ﬁnes [...]
+Las organizaciones sindicales adoptarán, bajo su responsabilidad, las medidas necesarias para que no se
+remitan para su envío informaciones con contenidos prohibidos.
+b) Los sindicatos facultados en los términos anteriores deberán designar un máximo de tres interlocutores
+válidos a efectos de la remisión de las comunicaciones sindicales al buzón de correo habilitado al efecto.
+c) Los interlocutores designados remitirán como máximo 24 comunicaciones al año dirigidas al conjunto de
+la plantilla, o en su caso de la Comunidad Autónoma teniendo en cuenta lo establecido en la normativa laboral
+en vigor y normas internas del Banco relativas al uso adecuado del correo electrónico.
+A estos efectos no se considerarán correos masivos los enviados a un colectivo de trabajadores inferior a una
+comunidad autónoma. Dichos envíos no podrán superar los 12 al año.
+d) Las 24 comunicaciones sindicales citadas anteriormente serán remitidas a un buzón habilitado al efecto
+por el Banco, desde el cual se enviarán a las direcciones de correo corporativas. La remisión se efectuará fuera
+de las horas punta de trabajo a ﬁn de evitar situaciones que alteren el desarrollo normal de la actividad de la
+Empresa, ya que se trata de una herramienta de trabajo.
+e) El Banco no se hace responsable de los contenidos de las comunicaciones sindicales transmitidas, y se
+reserva la facultad de suspender o restringir el envío cuando no se hayan respetado las normas y límites en
+el uso del correo electrónico".
+3.- La representación unitaria de OP Plus, perteneciente al grupo mercantil del BBVA, convocó una huelga
+motivada por la orden empresarial de cesar en el teletrabajo. Las tres secciones sindicales de CGT en BBVA
+editaron una carátula y una circular titulada "jornada de huelga en OP Plus" con el contenido siguiente:
+"[...] El Comité de Empresa de OP PLUS (ﬁlial de BBVA) por unanimidad de los tres Sindicatos que lo integran
+-CGT, UGT y CCOO- ha convocado una huelga de 24 horas en todos sus servicios para el próximo viernes 18
+de septiembre.
+El motivo de la misma es la negativa de la dirección a su propuesta de retrasar la incorporación a sus centros
+de trabajo de 1.200 personas y permitirles continuar trabajando en Remoto. La Representación Legal de la
+plantilla de OP PLUS considera que no se dan las condiciones en los centros para que toda la plantilla esté
+simultáneamente en modo presencial. Principalmente, falta espacio para mantener la distancia de seguridad
+[...]
+En BBVA hemos solicitado una reunión para proponer la extensión de esta medida a todas aquellas
+áreas cuyas funciones lo permitan...Unidades Territoriales, BBVA Contigo, CSE. incluso, con alguna medida
+complementaria, a la Red de Oﬁcinas, todo ello, tanto por la situación existente actual como en previsión de
+un empeoramiento de la misma (evolución tras apertura de colegios, etc.).
+
+8
+
+JURISPRUDENCIA
+Os queremos trasladar esta convocatoria para que entendáis lo que está ocurriendo en una empresa ﬁlial de
+BBVA de la que depende buena parte de la operativa del Banco y con la cual nos relacionamos diariamente
+a todos los niveles. Tengamos por tanto en cuenta tal convocatoria, el derecho básico que les corresponde
+y respetemos, como es nuestra obligación legal, su desarrollo tanto en lo que nos pueda afectar como, bajo
+ningún concepto, asumir tareas propias de OP PLUS en esa jornada [...]".
+4.- Esa circular fue remitida al buzón habilitado al efecto por el BBVA para que fuera reenviada a las direcciones
+de correo corporativas de toda la plantilla.
+El BBVA se negó a mandar la circular alegando que la Sección Estatal de CGT en BBVA no tiene representación
+en OP Plus y que las comunicaciones enviadas dentro de BBVA se deben atener a comunicaciones de ámbito
+estrictamente laboral dentro de BBVA.
+QUINTO.- 1.- El derecho a informar a los trabajadores forma parte del contenido esencial del derecho
+fundamental a la libertad sindical. En el BBVA, en virtud de un acuerdo de empresa, se ha reconocido el derecho
+de las secciones sindicales al envío de comunicaciones al conjunto de los trabajadores. En dicho acuerdo de
+empresa:
+a) se limita el número máximo de comunicaciones, que se hacen fuera de las horas punta de trabajo para que
+no alteren el normal funcionamiento de la empresa;
+b) los sindicatos deben adoptar, bajo su responsabilidad, las medidas necesarias para que no se remitan
+informaciones con contenidos prohibidos;
+c) y el BBVA no se hace responsable de los contenidos de las comunicaciones sindicales transmitidas.
+2.- La negativa empresarial a publicar el citado comunicado no es compatible con el derecho fundamental
+a la libertad sindical. La empresa ha vulnerado el mentado Acuerdo colectivo de 18 de septiembre de 2014,
+que establecía que las secciones sindicales de empresa legalmente constituidas podían proceder al envío de
+comunicaciones al conjunto de los trabajadores de la empresa. El "control previo" empresarial del contenido
+de la información sindical viola la libertad sindical de CGT.
+A mayor abundamiento, la comunicación remitida por CGT hacía referencia a una huelga en otra empresa del
+grupo BBVA motivada por la orden empresarial de cesar en el teletrabajo. En ella se explicaba que el sindicato
+había solicitado una reunión en el BBVA para proponer la extensión del teletrabajo a todas aquellas áreas del
+BBVA cuyas funciones lo permitan. En la comunicación se indicaba que la huelga en otra empresa del grupo
+podía afectar a los destinatarios de la comunicación, informándoles de que debían respetar su derecho a la
+huelga, cuyo desarrollo podía afectarles, mencionando expresamente que bajo ningún concepto debían asumir
+tareas propias de los huelguistas.
+Se trata de una comunicación con un contenido estrictamente laboral y relacionado directamente con el
+ejercicio de las funciones de representación legal de los trabajadores. No solo informa de una huelga en
+otra empresa del grupo motivada por la decisión unilateral de la empresa de cesar en el teletrabajo, sino que
+proporciona información acerca de la iniciativa sindical de solicitar una reunión con el BBVA para extender el
+teletrabajo a las áreas del BBVA en las que sea posible e informa a los destinatarios acerca de cómo debían
+trabajar cuando se produjera la huelga en otra empresa del grupo, que les podía afectar. No ofrece duda el
+interés laboral de dicha comunicación para sus destinatarios.
+El hecho de que la circular fuera publicada en el tablón virtual de información sindical no justiﬁca la negativa
+empresarial a que dicha información se enviara a las direcciones de correo corporativas de toda la plantilla
+porque se trata de dos canales distintos que no son excluyentes.
+La empresa demandada llevó a cabo una conducta obstruccionista que, al impedir el ejercicio del derecho a
+informar a los representados, vulneró el derecho fundamental a la libertad sindical de CGT, lo que obliga a
+desestimar este motivo.
+3.- La parte recurrente invoca la sentencia del TS de 28 de marzo de 2003, recurso 81/2002. Esa resolución
+negó que se hubiera vulnerado la libertad sindical por la negativa de la empresa a difundir a toda la plantilla
+un correo remitido por un sindicato.
+El supuesto enjuiciado en aquella sentencia es distinto de la presente litis y la doctrina constitucional y
+jurisprudencial posterior ha aﬁrmado que el derecho fundamental a la libertad sindical se integra, no sólo por
+su contenido esencial, sino también por el contenido adicional y promocional atribuido por normas legales
+o por convenios colectivos. La citada sentencia del TS 71/2023, de 25 de enero (rec. 62/2021), explica que
+"[l]a remisión de informaciones o comunicados tanto a sus aﬁliados (del sindicato) cuanto a la generalidad de
+
+9
+
+JURISPRUDENCIA
+la plantilla [...] constituye una manifestación de la libertad sindical que, en cuanto contenido adicional de la
+misma a la vista del alcance dado al artículo 8.1.1 LOLS, debe tutelarse".
+SEXTO.- 1.- Procede examinar conjuntamente, por su íntima interconexión, los dos últimos motivos del
+recurso, en los que se solicita que se deje sin efecto la condena al pago de una indemnización por daños
+morales de 3.125 euros.
+La doctrina jurisprudencial [por todas, sentencias de la Sala de lo Social del TS 356/2022, de 20 de abril
+(rcud 2391/2019) y las citadas en ella], de conformidad con lo dispuesto en el art. 183 de la LRJS, sostiene
+que "los daños morales resultan indisolublemente unidos a la vulneración del derecho fundamental, y
+al ser especialmente difícil su estimación detallada, deben ﬂexibilizarse las exigencias normales para la
+determinación de la indemnización [...] la indemnización de daños morales abre la vía a la posibilidad de que
+sea el órgano judicial el que establezca prudencialmente su cuantía, sin que pueda exigirse al reclamante
+la aportación de bases más exactas y precisas para su determinación". La necesidad de identiﬁcar las
+circunstancias relevantes para la determinación de la indemnización se exceptúa en el caso de los daños
+morales unidos a la vulneración del derecho fundamental cuando resulte difícil su estimación detallada.
+Esta sala ha utilizado como criterio orientador la cuantía de las sanciones pecuniarias previstas por la Ley
+de Infracciones y Sanciones del Orden Social (en adelante LISOS), de conformidad con la jurisprudencia
+constitucional ( STC 247/2006, de 24 de julio), precisando que "no estamos haciendo una aplicación
+sistemática y directa de la misma, sino que nos ceñimos a la razonabilidad que algunas de esas cifras ofrecen
+para la solución del caso, atendida a la gravedad de la vulneración del derecho fundamental. De esta forma,
+la más reciente doctrina de la Sala se ha alejado más -en la línea pretendida por la ya referida LRJS- del
+objetivo propiamente resarcitorio, para situarse en un plano que no descuida el aspecto preventivo que ha de
+corresponder a la indemnización en casos como el presente" [ sentencias del TS 214/2022, de 9 de marzo
+(rcud 2269/2019) y 356/2022, de 20 de abril (rcud 2391/2019), Pleno].
+2.- En la presente litis, la sentencia recurrida determina la cuantía de la indemnización con base en los arts.
+7.7, 7.9 y 40.1.b) de la LISOS.
+a) El art. 7.7 y 7.9 de la LISOS tipiﬁca como infracciones graves:
+"art. 7.7. La transgresión de los derechos de información, audiencia y consulta de los representantes de los
+trabajadores y de los delegados sindicales, en los términos en que legal o convencionalmente estuvieren
+establecidos."
+"Art. 7.9. La vulneración de los derechos de las secciones sindicales en orden a la recaudación de cuotas,
+distribución y recepción de información sindical, en los términos en que legal o convencionalmente estuvieren
+establecidos."
+b) El art. 40.1.b) de la LISOS, en la redacción vigente en la fecha de autos, establecía que las infracciones
+graves en materia de relaciones laborales y empleo se sancionaban "con multa, en su grado mínimo, de 626 a
+1.250 euros, en su grado medio de 1.251 a 3.125 euros; y en su grado máximo de 3.126 a 6.250 euros".
+3.- La sentencia recurrida, de conformidad con la citada doctrina constitucional y jurisprudencial, ﬁjó la cuantía
+de la indemnización por daños morales reparadora de la vulneración del derecho fundamental a la libertad
+sindical utilizando como criterio orientador la cuantía de las sanciones pecuniarias previstas por la LISOS.
+En concreto, la indemnización de 3.125 euros tiene la misma cuantía que la prevista entonces para las
+sanciones por infracciones graves, en su grado medio (de 1.251 a 3.125 euros), consistentes en la transgresión
+de los derechos de información de los representantes de los trabajadores y de los delegados sindicales y la
+vulneración de los derechos de las secciones sindicales en orden a la distribución de información sindical, en
+los términos en que legal o convencionalmente estuvieren establecidos.
+A la vista de los citados extremos, esta sala debe concluir que la vulneración del derecho fundamental
+a la libertad sindical cometida por el BBVA permite utilizar como criterio orientador la sanción pecuniaria
+establecida por la LISOS, por lo que la mentada indemnización reparadora es conforme a derecho.
+4.- Las anteriores consideraciones, de conformidad con el razonado informe del Ministerio Fiscal, obligan a
+desestimar el recurso de casación ordinario interpuesto por el BBVA, conﬁrmando la sentencia de instancia.
+Se condena a la parte recurrente al pago de las costas de su recurso en la cantidad de 1.500 euros ( art. 235
+de la LRJS). Se acuerda la pérdida del depósito y consignaciones efectuadas para recurrir ( art. 228 LRJS).
+FALLO
+Por todo lo expuesto, en nombre del Rey y por la autoridad que le conﬁere la Constitución, esta Sala ha decidido
+
+10
+
+JURISPRUDENCIA
+:
+1.- Desestimar el recurso de casación ordinario interpuesto por el Banco Bilbao Vizcaya Argentaria SA.
+2.- Conﬁrmar sentencia de la Audiencia Nacional 173/2021, de 19 de julio (procedimiento 530/2020).
+3.- Se condena a la parte recurrente al pago de las costas de su recurso en la cantidad de 1.500 euros. Se
+acuerda la pérdida del depósito y consignaciones efectuadas para recurrir.
+Notifíquese esta resolución a las partes e insértese en la colección legislativa.
+Así se acuerda y ﬁrma.
+
+11
+
+
