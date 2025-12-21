@@ -1144,6 +1144,13 @@ screen and (min-width: 0px) {
     color: #fff !important;
   }
 
+  /* RESET GLOBAL DE RENDERIZADO PARA PDF */
+  body.generating-pdf * {
+    transform: none !important;
+    transition: none !important;
+    box-shadow: none !important;
+  }
+
   body.generating-pdf .hero {
     break-before: auto !important;
     page-break-before: auto !important;
@@ -1167,6 +1174,14 @@ screen and (min-width: 0px) {
     display: none !important;
   }
 
+  /* FORZAR LAYOUT DE 1 COLUMNA (Más seguro para evitar cortes) */
+  body.generating-pdf .pillars-grid,
+  body.generating-pdf .legal-cards,
+  body.generating-pdf .concept-grid {
+    display: block !important;
+    grid-template-columns: 1fr !important;
+  }
+
   body.generating-pdf .pillar-card,
   body.generating-pdf .card,
   body.generating-pdf .sentence-card,
@@ -1174,6 +1189,21 @@ screen and (min-width: 0px) {
   body.generating-pdf .phase-item,
   body.generating-pdf .quote-card,
   body.generating-pdf .argument-card {
+    break-inside: avoid !important;
+    page-break-inside: avoid !important;
+    margin-bottom: 30px !important;
+    /* Espacio extra */
+    display: block !important;
+    width: 100% !important;
+  }
+
+  /* Proteger textos importantes de cortes */
+  body.generating-pdf h1,
+  body.generating-pdf h2,
+  body.generating-pdf h3,
+  body.generating-pdf h4,
+  body.generating-pdf p,
+  body.generating-pdf li {
     break-inside: avoid !important;
     page-break-inside: avoid !important;
   }
